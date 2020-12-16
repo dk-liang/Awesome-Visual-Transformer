@@ -15,6 +15,8 @@ Collect some Transformer with CV papers.
 
 ### arXiv papers
 
+
+- DETR for Pedestrian Detection[[paper](https://arxiv.org/abs/2012.06785)]
 - **[UP-DETR]** UP-DETR: Unsupervised Pre-training for Object Detection with Transformers[[paper](https://arxiv.org/abs/2011.09094)]
 - **[LAMBDANETWORKS]** MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION[[paper](https://openreview.net/pdf?id=xTJEN-ggl1b)][[code](https://github.com/lucidrains/lambda-networks)]
 - **[C-Tran]** General Multi-label Image Classification with Transformers[[paper](https://arxiv.org/abs/2011.14027)]
