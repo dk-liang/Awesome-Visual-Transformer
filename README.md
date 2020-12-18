@@ -14,6 +14,8 @@ Collect some Transformer with CV papers.
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
 
 ### arXiv papers
+
+- **[PCT]** PCT: Point Cloud Transformer [[paper](https://arxiv.org/abs/2012.09688)] 
 - Transformer Interpretability Beyond Attention Visualization[[paper](https://arxiv.org/abs/2012.09838)] [[code](https://github.com/hila-chefer/Transformer-Explainability)]
 - **[METRO]** End-to-End Human Pose and Mesh Reconstruction with Transformers [[paper]](https://arxiv.org/abs/2012.09760)
 - **[PointTransformer]** Point Transformer[[paper](https://arxiv.org/abs/2012.09164)]
