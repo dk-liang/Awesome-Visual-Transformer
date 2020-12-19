@@ -15,6 +15,7 @@ Collect some Transformer with CV papers.
 
 ### arXiv papers
 
+- **[SceneFormer]** SceneFormer: Indoor Scene Generation with Transformers [[paper](https://arxiv.org/abs/2012.09793)] 
 - **[PCT]** PCT: Point Cloud Transformer [[paper](https://arxiv.org/abs/2012.09688)] 
 - Transformer Interpretability Beyond Attention Visualization[[paper](https://arxiv.org/abs/2012.09838)] [[code](https://github.com/hila-chefer/Transformer-Explainability)]
 - **[METRO]** End-to-End Human Pose and Mesh Reconstruction with Transformers [[paper]](https://arxiv.org/abs/2012.09760)
