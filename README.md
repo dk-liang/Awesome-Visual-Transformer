@@ -14,7 +14,7 @@ Collect some Transformer with CV papers.
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
 
 ### arXiv papers
-
+- **[ViT-FRCNN]** Toward Transformer-Based Object Detection [[paper](https://arxiv.org/abs/2012.09958)] 
 - **[Taming-transformers]** Taming Transformers for High-Resolution Image Synthesis [[paper](https://arxiv.org/abs/2012.09841)] [[code](https://compvis.github.io/taming-transformers/)]
 - **[SceneFormer]** SceneFormer: Indoor Scene Generation with Transformers [[paper](https://arxiv.org/abs/2012.09793)] 
 - **[PCT]** PCT: Point Cloud Transformer [[paper](https://arxiv.org/abs/2012.09688)] 
