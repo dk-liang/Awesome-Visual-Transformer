@@ -13,6 +13,10 @@ Collect some Transformer with CV papers.
 
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
 
+### Survey
+
+  - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
+
 ### arXiv papers
 - **[Pointformer]** 3D Object Detection with Pointformer [[paper](https://arxiv.org/abs/2012.11409)] 
 - **[ViT-FRCNN]** Toward Transformer-Based Object Detection [[paper](https://arxiv.org/abs/2012.09958)] 
