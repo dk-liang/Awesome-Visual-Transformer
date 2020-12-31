@@ -45,9 +45,12 @@ Collect some Transformer with CV papers.
 
 ### 2020
 
--  **[DETR]** End-to-End Object Detection with Transformers (**ECCV**) [[paper](https://arxiv.org/abs/2005.12872)] [[code](https://github.com/facebookresearch/detr)]
+- **[DETR]** End-to-End Object Detection with Transformers (**ECCV**) [[paper](https://arxiv.org/abs/2005.12872)] [[code](https://github.com/facebookresearch/detr)]
 - **[FPT]** Feature Pyramid Transformer(**CVPR**) [[paper](https://arxiv.org/abs/2007.09451)] [[code](https://github.com/ZHANGDONG-NJUST/FPT)]
--  **[TTSR]** Learning Texture Transformer Network for Image Super-Resolution(**CVPR**) [[paper](https://arxiv.org/abs/2006.04139)] [[code](https://github.com/researchmm/TTSR)]
+- **[TTSR]** Learning Texture Transformer Network for Image Super-Resolution(**CVPR**) [[paper](https://arxiv.org/abs/2006.04139)] [[code](https://github.com/researchmm/TTSR)]
+
+### Acknowledgement
+Thanks the template from [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
 
 
 
