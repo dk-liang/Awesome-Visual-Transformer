@@ -18,6 +18,8 @@ Collect some Transformer with CV papers.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[TransTrack]** TransTrack: Multiple-Object Tracking with Transformer [[paper](https://arxiv.org/abs/2012.15460)] [[code](https://github.com/PeizeSun/TransTrack)]
+- **[SETR]** Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2012.15840)] [[code](https://fudan-zvg.github.io/SETR/)]
 - **[TransPose]** TransPose: Towards Explainable Human Pose Estimation by Transformer [[paper](https://arxiv.org/abs/2012.14214)] 
 - **[DeiT]** Training data-efficient image transformers & distillation through attention [[paper](https://arxiv.org/abs/2012.12877)] 
 - **[Pointformer]** 3D Object Detection with Pointformer [[paper](https://arxiv.org/abs/2012.11409)] 
