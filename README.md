@@ -1,6 +1,6 @@
-# Awesome Transformer with CV
+# Awesome Visual-Transformer
 
-Collect some Transformer with CV papers.
+Collect some Transformer with Computer-Vision (CV) papers.
 
 
 ## Papers
