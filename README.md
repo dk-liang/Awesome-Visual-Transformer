@@ -14,10 +14,11 @@ Collect some Transformer with Computer-Vision (CV) papers.
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
 
 ### Survey
-
+  - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.01.04
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[TRIQ]** Transformer for Image Quality Assessment [[paper](https://arxiv.org/abs/2101.01097)] [[code](https://github.com/junyongyou/triq)]
 - **[TransTrack]** TransTrack: Multiple-Object Tracking with Transformer [[paper](https://arxiv.org/abs/2012.15460)] [[code](https://github.com/PeizeSun/TransTrack)]
 - **[SETR]** Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2012.15840)] [[code](https://fudan-zvg.github.io/SETR/)]
 - **[TransPose]** TransPose: Towards Explainable Human Pose Estimation by Transformer [[paper](https://arxiv.org/abs/2012.14214)] 
