@@ -18,6 +18,9 @@ Collect some Transformer with Computer-Vision (CV) papers.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+
+- **[LETR]** Line Segment Detection Using Transformers without Edges [[paper](https://arxiv.org/abs/2101.01909)]
+- **[TAPE]** Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry [[paper](https://arxiv.org/abs/2101.02143)]
 - **[TRIQ]** Transformer for Image Quality Assessment [[paper](https://arxiv.org/abs/2101.01097)] [[code](https://github.com/junyongyou/triq)]
 - **[TransTrack]** TransTrack: Multiple-Object Tracking with Transformer [[paper](https://arxiv.org/abs/2012.15460)] [[code](https://github.com/PeizeSun/TransTrack)]
 - **[SETR]** Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2012.15840)] [[code](https://fudan-zvg.github.io/SETR/)]
