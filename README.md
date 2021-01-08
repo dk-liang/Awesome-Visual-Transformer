@@ -18,7 +18,7 @@ Collect some Transformer with Computer-Vision (CV) papers.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
-
+- **[TrackFormer]** TrackFormer: Multi-Object Tracking with Transformers [[paper](https://arxiv.org/abs/2101.02702)]
 - **[LETR]** Line Segment Detection Using Transformers without Edges [[paper](https://arxiv.org/abs/2101.01909)]
 - **[TAPE]** Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry [[paper](https://arxiv.org/abs/2101.02143)]
 - **[TRIQ]** Transformer for Image Quality Assessment [[paper](https://arxiv.org/abs/2101.01097)] [[code](https://github.com/junyongyou/triq)]
