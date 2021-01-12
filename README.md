@@ -18,6 +18,7 @@ Collect some Transformer with Computer-Vision (CV) papers.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[Trear]** Trear: Transformer-based RGB-D Egocentric Action Recognition [[paper](https://arxiv.org/abs/2101.03904)]
 - **[VisTR]** End-to-End Video Instance Segmentation with Transformers [[paper](https://arxiv.org/abs/2011.14503)]
 - **[VisualSparta]** VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search [[paper](https://arxiv.org/abs/2101.00265)]
 - **[TrackFormer]** TrackFormer: Multi-Object Tracking with Transformers [[paper](https://arxiv.org/abs/2101.02702)]
