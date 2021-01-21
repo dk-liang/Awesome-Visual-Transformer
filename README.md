@@ -46,11 +46,10 @@ Collect some Transformer with Computer-Vision (CV) papers.
 - **[TSP-FCOS]** Rethinking Transformer-based Set Prediction for Object Detection[[paper](https://arxiv.org/abs/2011.10881)]
 - **[IPT]** Pre-Trained Image Processing Transformer[[paper](https://arxiv.org/abs/2012.00364)]
 - **[ACT]** End-to-End Object Detection with Adaptive Clustering Transformer[[paper](https://arxiv.org/abs/2011.09315)]
-- **[Vision Transformer]** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale[[paper](https://arxiv.org/abs/2010.11929)] [[code](https://github.com/google-research/vision_transformer)]
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision[[paper](https://arxiv.org/abs/2006.03677)]
 
-
 ### 2021
+- **[Vision Transformer]** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale(**ICLR**)[[paper](https://arxiv.org/abs/2010.11929)] [[code](https://github.com/google-research/vision_transformer)]
 - **[Deformable DETR]** Deformable DETR: Deformable Transformers for End-to-End Object Detection(**ICLR**)[[paper](https://arxiv.org/abs/2010.04159)] [[code](https://github.com/fundamentalvision/Deformable-DETR)]
 - **[LSTR]** End-to-end Lane Shape Prediction with Transformers(**WACV**) [[paper](https://arxiv.org/abs/2011.04233)] [[code](https://github.com/liuruijin17/LSTR)]
 
