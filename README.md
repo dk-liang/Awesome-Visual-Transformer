@@ -18,6 +18,7 @@ Collect some Transformer with Computer-Vision (CV) papers.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[Trans2Seg]**  Segmenting Transparent Object in the Wild with Transformer [[paper](https://github.com/xieenze/Trans2Seg)] [[code](https://github.com/xieenze/Trans2Seg)]
 - **[SMCA]**  Fast Convergence of DETR with Spatially Modulated Co-Attention [[paper](https://arxiv.org/abs/2101.07448)]
 - Investigating the Vision Transformer Model for Image Retrieval Tasks [[paper](https://arxiv.org/abs/2101.03771)]
 - **[Trear]** Trear: Transformer-based RGB-D Egocentric Action Recognition [[paper](https://arxiv.org/abs/2101.03904)]
