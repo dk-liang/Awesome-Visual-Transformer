@@ -18,6 +18,7 @@ Collect some Transformer with Computer-Vision (CV) papers.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[BoTNet]** Bottleneck Transformers for Visual Recognition [[paper](https://arxiv.org/abs/2101.11605)]
 - **[CPTR]** CPTR: Full Transformer Network for Image Captioning [[paper](https://arxiv.org/abs/2101.10804)]
 - Learn to Dance with AIST++: Music Conditioned 3D Dance Generation [[paper](https://arxiv.org/abs/2101.08779)] [[code](https://google.github.io/aichoreographer/)]
 - **[Trans2Seg]**  Segmenting Transparent Object in the Wild with Transformer [[paper](https://github.com/xieenze/Trans2Seg)] [[code](https://github.com/xieenze/Trans2Seg)]
