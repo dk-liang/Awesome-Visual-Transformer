@@ -18,6 +18,7 @@ Collect some Transformer with Computer-Vision (CV) papers.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[TransReID]** TransReID: Transformer-based Object Re-Identification[[paper](https://arxiv.org/abs/2102.04378)]
 - **[VTN]** Video Transformer Network[[paper](https://arxiv.org/abs/2102.00719)]
 - **[T2T-ViT]** Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [[paper](https://arxiv.org/abs/2101.11986)] [[code](https://github.com/yitu-opensource/T2T-ViT)]
 - **[BoTNet]** Bottleneck Transformers for Visual Recognition [[paper](https://arxiv.org/abs/2101.11605)]
