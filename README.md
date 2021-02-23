@@ -18,6 +18,11 @@ Collect some Transformer with Computer-Vision (CV) papers.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- Transformer is All You Need:
+Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.org/abs/2102.10772)] [[code](https://mmf.sh/)]
+- **[MedT]** Medical Transformer: Gated Axial-Attention for Medical Image Segmentation [[paper](https://arxiv.org/abs/2102.10662)] [[code](https://github.com/jeya-maria-jose/Medical-Transformer)]
+- **[CPVT]** Do We Really Need Explicit Position Encodings for Vision Transformers? [[paper](https://arxiv.org/abs/2102.10882)] [[code](https://github.com/Meituan-AutoML/CPVT)]
+- Deepfake Video Detection Using Convolutional Vision Transformer[[paper](https://arxiv.org/abs/2102.11126)]
 - Training Vision Transformers for Image Retrieval[[paper](https://arxiv.org/abs/2102.05644)]
 - **[TransReID]** TransReID: Transformer-based Object Re-Identification[[paper](https://arxiv.org/abs/2102.04378)]
 - **[VTN]** Video Transformer Network[[paper](https://arxiv.org/abs/2102.00719)]
