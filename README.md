@@ -1,6 +1,6 @@
 # Awesome Visual-Transformer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Collect some Transformer with Computer-Vision (CV) papers.
+Collect some Transformer with Computer-Vision (CV) papers. If you find some ignored papers, please open issues or pull requests.
 
 
 ## Papers
@@ -18,6 +18,7 @@ Collect some Transformer with Computer-Vision (CV) papers.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[PVT]** Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions [[paper](https://arxiv.org/abs/2102.12122)] [[code](https://github.com/whai362/PVT)]
 - Transformer is All You Need:
 Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.org/abs/2102.10772)] [[code](https://mmf.sh/)]
 - **[MedT]** Medical Transformer: Gated Axial-Attention for Medical Image Segmentation [[paper](https://arxiv.org/abs/2102.10662)] [[code](https://github.com/jeya-maria-jose/Medical-Transformer)]
