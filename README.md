@@ -54,15 +54,18 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[METRO]** End-to-End Human Pose and Mesh Reconstruction with Transformers [[paper]](https://arxiv.org/abs/2012.09760)
 - **[PointTransformer]** Point Transformer[[paper](https://arxiv.org/abs/2012.09164)]
 - **[PED]** DETR for Pedestrian Detection[[paper](https://arxiv.org/abs/2012.06785)]
+- Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry[[paper](https://arxiv.org/abs/2101.02143)]
 - **[UP-DETR]** UP-DETR: Unsupervised Pre-training for Object Detection with Transformers[[paper](https://arxiv.org/abs/2011.09094)]
 - **[LAMBDANETWORKS]** MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION[[paper](https://openreview.net/pdf?id=xTJEN-ggl1b)] [[code](https://github.com/lucidrains/lambda-networks)]
 - **[C-Tran]** General Multi-label Image Classification with Transformers[[paper](https://arxiv.org/abs/2011.14027)]
 - **[TSP-FCOS]** Rethinking Transformer-based Set Prediction for Object Detection[[paper](https://arxiv.org/abs/2011.10881)]
 - **[IPT]** Pre-Trained Image Processing Transformer[[paper](https://arxiv.org/abs/2012.00364)]
 - **[ACT]** End-to-End Object Detection with Adaptive Clustering Transformer[[paper](https://arxiv.org/abs/2011.09315)]
+- **[STTR]** Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers[[paper](https://arxiv.org/abs/2011.02910v2)] [[code](https://github.com/mli0603/stereo-transformer)]
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision[[paper](https://arxiv.org/abs/2006.03677)]
 
 ### 2021
+
 - **[Vision Transformer]** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale(**ICLR**)[[paper](https://arxiv.org/abs/2010.11929)] [[code](https://github.com/google-research/vision_transformer)]
 - **[Deformable DETR]** Deformable DETR: Deformable Transformers for End-to-End Object Detection(**ICLR**)[[paper](https://arxiv.org/abs/2010.04159)] [[code](https://github.com/fundamentalvision/Deformable-DETR)]
 - **[LSTR]** End-to-end Lane Shape Prediction with Transformers(**WACV**) [[paper](https://arxiv.org/abs/2011.04233)] [[code](https://github.com/liuruijin17/LSTR)]
@@ -74,8 +77,8 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[TTSR]** Learning Texture Transformer Network for Image Super-Resolution(**CVPR**) [[paper](https://arxiv.org/abs/2006.04139)] [[code](https://github.com/researchmm/TTSR)]
 
 ### Acknowledgement
-Thanks the template from [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
 
+Thanks the template from [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
 
 
 
