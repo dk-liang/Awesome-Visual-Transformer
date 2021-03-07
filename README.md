@@ -18,6 +18,8 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[SSTN]** SSTN: Self-Supervised Domain Adaptation Thermal
+Object Detection for Autonomous Driving [[paper](https://arxiv.org/abs/2103.03150)] 
 - **[GANsformer]** Generative Adversarial Transformers [[paper](https://arxiv.org/abs/2103.01209)] [[code](https://github.com/dorarad/gansformer)]
 - **[PVT]** Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions [[paper](https://arxiv.org/abs/2102.12122)] [[code](https://github.com/whai362/PVT)]
 - Transformer is All You Need:
