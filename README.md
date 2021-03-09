@@ -18,6 +18,8 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[SpecTr]** SpecTr: Spectral Transformer for Hyperspectral Pathology Image Segmentation [[paper](https://arxiv.org/abs/2103.03604)] [[code](https://github.com/hfut-xc-yun/SpecTr)]
+- **[TransBTS]** TransBTS: Multimodal Brain Tumor Segmentation Using Transformer [[paper](https://arxiv.org/abs/2103.04430)] [[code](https://github.com/Wenxuan-1119/TransBTS)]
 - **[SSTN]** SSTN: Self-Supervised Domain Adaptation Thermal
 Object Detection for Autonomous Driving [[paper](https://arxiv.org/abs/2103.03150)] 
 - **[GANsformer]** Generative Adversarial Transformers [[paper](https://arxiv.org/abs/2103.01209)] [[code](https://github.com/dorarad/gansformer)]
