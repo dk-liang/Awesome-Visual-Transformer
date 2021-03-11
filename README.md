@@ -18,6 +18,8 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[TransMed]** TransMed: Transformers Advance Multi-modal Medical Image Classification [[paper](https://arxiv.org/abs/2103.05940)] 
+- **[U-Transformer]** U-Net Transformer: Self and Cross Attention for Medical Image Segmentation [[paper](https://arxiv.org/abs/2103.06104)] 
 - **[SpecTr]** SpecTr: Spectral Transformer for Hyperspectral Pathology Image Segmentation [[paper](https://arxiv.org/abs/2103.03604)] [[code](https://github.com/hfut-xc-yun/SpecTr)]
 - **[TransBTS]** TransBTS: Multimodal Brain Tumor Segmentation Using Transformer [[paper](https://arxiv.org/abs/2103.04430)] [[code](https://github.com/Wenxuan-1119/TransBTS)]
 - **[SSTN]** SSTN: Self-Supervised Domain Adaptation Thermal
@@ -40,7 +42,6 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[SMCA]**  Fast Convergence of DETR with Spatially Modulated Co-Attention [[paper](https://arxiv.org/abs/2101.07448)]
 - Investigating the Vision Transformer Model for Image Retrieval Tasks [[paper](https://arxiv.org/abs/2101.03771)]
 - **[Trear]** Trear: Transformer-based RGB-D Egocentric Action Recognition [[paper](https://arxiv.org/abs/2101.03904)]
-- **[VisTR]** End-to-End Video Instance Segmentation with Transformers [[paper](https://arxiv.org/abs/2011.14503)]
 - **[VisualSparta]** VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search [[paper](https://arxiv.org/abs/2101.00265)]
 - **[TrackFormer]** TrackFormer: Multi-Object Tracking with Transformers [[paper](https://arxiv.org/abs/2101.02702)]
 - **[LETR]** Line Segment Detection Using Transformers without Edges [[paper](https://arxiv.org/abs/2101.01909)]
@@ -66,6 +67,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision[[paper](https://arxiv.org/abs/2006.03677)]
 
 ### 2021
+- **[VisTR]** End-to-End Video Instance Segmentation with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2011.14503)]
 - Transformer Interpretability Beyond Attention Visualization (**CVPR**) [[paper](https://arxiv.org/abs/2012.09838)] [[code](https://github.com/hila-chefer/Transformer-Explainability)]
 - **[IPT]** Pre-Trained Image Processing Transformer(**CVPR**) [[paper](https://arxiv.org/abs/2012.00364)]
 - **[UP-DETR]** UP-DETR: Unsupervised Pre-training for Object Detection with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2011.09094)]
