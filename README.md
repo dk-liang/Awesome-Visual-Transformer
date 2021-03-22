@@ -18,6 +18,11 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- Enhancing Transformer for Video Understanding Using Gated Multi-Level Attention and Temporal Adversarial Training[[paper](https://arxiv.org/abs/2103.10043)] 
+- 3D Human Pose Estimation with Spatial and Temporal Transformers[[paper](https://arxiv.org/abs/2103.10455)] [[code](https://github.com/zczcwh/PoseFormer)]
+- **[SUNETR]** SUNETR: Transformers for 3D Medical Image Segmentation[[paper](https://arxiv.org/abs/2103.10504)] 
+- Scalable Visual Transformers with Hierarchical Pooling [[paper](https://arxiv.org/abs/2103.10619)] 
+- **[ConViT]** ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases [[paper](https://arxiv.org/abs/2103.10697)] 
 - **[TransMed]** TransMed: Transformers Advance Multi-modal Medical Image Classification [[paper](https://arxiv.org/abs/2103.05940)] 
 - **[U-Transformer]** U-Net Transformer: Self and Cross Attention for Medical Image Segmentation [[paper](https://arxiv.org/abs/2103.06104)] 
 - **[SpecTr]** SpecTr: Spectral Transformer for Hyperspectral Pathology Image Segmentation [[paper](https://arxiv.org/abs/2103.03604)] [[code](https://github.com/hfut-xc-yun/SpecTr)]
