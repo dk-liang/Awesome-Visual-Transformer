@@ -18,6 +18,9 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[CeiT]** Incorporating Convolution Designs into Visual Transformers[[paper](https://arxiv.org/abs/2103.11816)] 
+- **[DeepViT]** DeepViT: Towards Deeper Vision Transformer[[paper](https://arxiv.org/abs/2103.11886)] 
+- **[TNT]** Transformer in Transformer[[paper](https://arxiv.org/abs/2103.00112)] [[code](https://github.com/huawei-noah/noah-research/tree/master/TNT)]
 - Enhancing Transformer for Video Understanding Using Gated Multi-Level Attention and Temporal Adversarial Training[[paper](https://arxiv.org/abs/2103.10043)] 
 - 3D Human Pose Estimation with Spatial and Temporal Transformers[[paper](https://arxiv.org/abs/2103.10455)] [[code](https://github.com/zczcwh/PoseFormer)]
 - **[SUNETR]** SUNETR: Transformers for 3D Medical Image Segmentation[[paper](https://arxiv.org/abs/2103.10504)] 
@@ -72,6 +75,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision[[paper](https://arxiv.org/abs/2006.03677)]
 
 ### 2021
+- Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking (**CVPR oral**) [[paper](https://arxiv.org/abs/2103.11681)]
 - **[VisTR]** End-to-End Video Instance Segmentation with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2011.14503)]
 - Transformer Interpretability Beyond Attention Visualization (**CVPR**) [[paper](https://arxiv.org/abs/2012.09838)] [[code](https://github.com/hila-chefer/Transformer-Explainability)]
 - **[IPT]** Pre-Trained Image Processing Transformer(**CVPR**) [[paper](https://arxiv.org/abs/2012.00364)]
