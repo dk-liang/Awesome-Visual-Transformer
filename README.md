@@ -18,6 +18,10 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- Transformers Solve the Limited Receptive Field for Monocular Depth Prediction[[paper](https://arxiv.org/abs/2103.12091)] 
+- End-to-End Trainable Multi-Instance Pose Estimation with Transformers[[paper](https://arxiv.org/abs/2103.12115)] 
+- Instance-level Image Retrieval using Reranking Transformers[[paper](https://arxiv.org/abs/2103.12424)] [[code](https://arxiv.org/abs/2103.12236)]
+- **[BossNAS]** BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search[[paper](https://arxiv.org/abs/2103.12424)] [[code](https://github.com/changlin31/BossNAS)]
 - **[CeiT]** Incorporating Convolution Designs into Visual Transformers[[paper](https://arxiv.org/abs/2103.11816)] 
 - **[DeepViT]** DeepViT: Towards Deeper Vision Transformer[[paper](https://arxiv.org/abs/2103.11886)] 
 - **[TNT]** Transformer in Transformer[[paper](https://arxiv.org/abs/2103.00112)] [[code](https://github.com/huawei-noah/noah-research/tree/master/TNT)]
@@ -75,6 +79,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision[[paper](https://arxiv.org/abs/2006.03677)]
 
 ### 2021
+- **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
 - Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking (**CVPR oral**) [[paper](https://arxiv.org/abs/2103.11681)]
 - **[VisTR]** End-to-End Video Instance Segmentation with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2011.14503)]
 - Transformer Interpretability Beyond Attention Visualization (**CVPR**) [[paper](https://arxiv.org/abs/2012.09838)] [[code](https://github.com/hila-chefer/Transformer-Explainability)]
