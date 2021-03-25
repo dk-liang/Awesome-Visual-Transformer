@@ -18,6 +18,8 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- Multi-view 3D Reconstruction with Transformer[[paper](https://arxiv.org/abs/2103.12957)] 
+- Can Vision Transformers Learn without Natural Images?[[paper](https://arxiv.org/abs/2103.13023)] [[code](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)]
 - Transformers Solve the Limited Receptive Field for Monocular Depth Prediction[[paper](https://arxiv.org/abs/2103.12091)] 
 - End-to-End Trainable Multi-Instance Pose Estimation with Transformers[[paper](https://arxiv.org/abs/2103.12115)] 
 - Instance-level Image Retrieval using Reranking Transformers[[paper](https://arxiv.org/abs/2103.12424)] [[code](https://arxiv.org/abs/2103.12236)]
