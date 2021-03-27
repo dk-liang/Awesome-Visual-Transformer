@@ -18,6 +18,7 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[GSA-Net]** Global Self-Attention Networks for Image Recognition[[paper](https://arxiv.org/abs/2010.03019)]
 - High-Fidelity Pluralistic Image Completion with Transformers[[paper](https://arxiv.org/abs/2103.14031)] [[code](http://raywzy.com/ICT)]
 - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows[[paper](https://arxiv.org/abs/2103.14030)] [[code](https://github.com/microsoft/Swin-Transformer)]
 - **[DPT]** Vision Transformers for Dense Prediction[[paper](https://arxiv.org/abs/2103.13413)] [[code](https://github.com/intel-isl/DPT)]
