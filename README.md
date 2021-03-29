@@ -12,6 +12,7 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
 ### Technical blog
 
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
+- [Chinese Blog] Vision Transformer 超详细解读 (原理分析+代码解读) [[Link](https://zhuanlan.zhihu.com/p/348593638)]
 
 ### Survey
   - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.01.04
@@ -72,7 +73,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[TransTrack]** TransTrack: Multiple-Object Tracking with Transformer [[paper](https://arxiv.org/abs/2012.15460)] [[code](https://github.com/PeizeSun/TransTrack)]
 - **[SETR]** Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2012.15840)] [[code](https://fudan-zvg.github.io/SETR/)]
 - **[TransPose]** TransPose: Towards Explainable Human Pose Estimation by Transformer [[paper](https://arxiv.org/abs/2012.14214)] 
-- **[DeiT]** Training data-efficient image transformers & distillation through attention [[paper](https://arxiv.org/abs/2012.12877)] 
+- **[DeiT]** Training data-efficient image transformers & distillation through attention [[paper](https://arxiv.org/abs/2012.12877)] [[code](https://github.com/facebookresearch/deit)]
 - **[Pointformer]** 3D Object Detection with Pointformer [[paper](https://arxiv.org/abs/2012.11409)] 
 - **[ViT-FRCNN]** Toward Transformer-Based Object Detection [[paper](https://arxiv.org/abs/2012.09958)] 
 - **[Taming-transformers]** Taming Transformers for High-Resolution Image Synthesis [[paper](https://arxiv.org/abs/2012.09841)] [[code](https://compvis.github.io/taming-transformers/)]
