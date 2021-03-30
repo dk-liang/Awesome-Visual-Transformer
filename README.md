@@ -24,7 +24,7 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
 - **[TFPose]** TFPose: Direct Human Pose Estimation with Transformers [[paper](https://arxiv.org/abs/2103.15320)]
 - **[TransCenter]** TransCenter: Transformers with Dense Queries for Multiple-Object Tracking [[paper](https://arxiv.org/abs/2103.15145)]
 - **[ViViT]** ViViT: A Video Vision Transformer [[paper](https://arxiv.org/abs/2103.15691)]
-- **[CrossViT]** CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification[paper(https://arxiv.org/abs/2103.14899)]
+- **[CrossViT]** CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification [[paper](https://arxiv.org/abs/2103.14899)]
 - **[TS-CAM]** TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization[[paper](https://arxiv.org/abs/2103.14862)]
 - Face Transformer for Recognition [[paper](https://arxiv.org/abs/2103.14803)]
 - On the Adversarial Robustness of Visual Transformers[[paper](https://arxiv.org/abs/2103.15670)]
