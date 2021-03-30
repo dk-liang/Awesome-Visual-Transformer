@@ -19,10 +19,10 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
-- **[CvT] ** CvT: Introducing Convolutions to Vision Transformers[[paper](https://arxiv.org/abs/2103.15808)] [[code](https://github.com/leoxiaobin/CvT)]
+- **[CvT]** CvT: Introducing Convolutions to Vision Transformers[[paper](https://arxiv.org/abs/2103.15808)] [[code](https://github.com/leoxiaobin/CvT)]
 - Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding [[paper](https://arxiv.org/abs/2103.15358)]
-- **[TFPose] ** TFPose: Direct Human Pose Estimation with Transformers [[paper](https://arxiv.org/abs/2103.15320)]
-- **[TransCenter] ** TransCenter: Transformers with Dense Queries for Multiple-Object Tracking [[paper](https://arxiv.org/abs/2103.15145)]
+- **[TFPose]** TFPose: Direct Human Pose Estimation with Transformers [[paper](https://arxiv.org/abs/2103.15320)]
+- **[TransCenter]** TransCenter: Transformers with Dense Queries for Multiple-Object Tracking [[paper](https://arxiv.org/abs/2103.15145)]
 - **[ViViT]** ViViT: A Video Vision Transformer [[paper](https://arxiv.org/abs/2103.15691)]
 - **[CrossViT]** CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification[paper(https://arxiv.org/abs/2103.14899)]
 - **[TS-CAM]** TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization[[paper](https://arxiv.org/abs/2103.14862)]
