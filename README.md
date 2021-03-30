@@ -19,6 +19,7 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[TransUNet]** TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation[[paper](https://arxiv.org/abs/2102.04306)] [[code](https://github.com/Beckschen/TransUNet)]
 - **[CvT]** CvT: Introducing Convolutions to Vision Transformers[[paper](https://arxiv.org/abs/2103.15808)] [[code](https://github.com/leoxiaobin/CvT)]
 - Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding [[paper](https://arxiv.org/abs/2103.15358)]
 - **[TFPose]** TFPose: Direct Human Pose Estimation with Transformers [[paper](https://arxiv.org/abs/2103.15320)]
@@ -80,7 +81,6 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[TAPE]** Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry [[paper](https://arxiv.org/abs/2101.02143)]
 - **[TRIQ]** Transformer for Image Quality Assessment [[paper](https://arxiv.org/abs/2101.01097)] [[code](https://github.com/junyongyou/triq)]
 - **[TransTrack]** TransTrack: Multiple-Object Tracking with Transformer [[paper](https://arxiv.org/abs/2012.15460)] [[code](https://github.com/PeizeSun/TransTrack)]
-- **[SETR]** Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2012.15840)] [[code](https://fudan-zvg.github.io/SETR/)]
 - **[TransPose]** TransPose: Towards Explainable Human Pose Estimation by Transformer [[paper](https://arxiv.org/abs/2012.14214)] 
 - **[DeiT]** Training data-efficient image transformers & distillation through attention [[paper](https://arxiv.org/abs/2012.12877)] [[code](https://github.com/facebookresearch/deit)]
 - **[Pointformer]** 3D Object Detection with Pointformer [[paper](https://arxiv.org/abs/2012.11409)] 
@@ -100,6 +100,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 ### 2021
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
+- **[SETR]** Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2012.15840)] [[code](https://fudan-zvg.github.io/SETR/)]
 - **[TransT]** Transformer Tracking  (**CVPR**) [[paper](https://arxiv.org/abs/2103.15436)] [[code](https://github.com/chenxin-dlut/TransT)]
 - Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking (**CVPR oral**) [[paper](https://arxiv.org/abs/2103.11681)]
 - **[VisTR]** End-to-End Video Instance Segmentation with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2011.14503)]
