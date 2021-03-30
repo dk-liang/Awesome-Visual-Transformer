@@ -19,6 +19,15 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[CvT] ** CvT: Introducing Convolutions to Vision Transformers[[paper](https://arxiv.org/abs/2103.15808)] [[code](https://github.com/leoxiaobin/CvT)]
+- Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding [[paper](https://arxiv.org/abs/2103.15358)]
+- **[TFPose] ** TFPose: Direct Human Pose Estimation with Transformers [[paper](https://arxiv.org/abs/2103.15320)]
+- **[TransCenter] ** TransCenter: Transformers with Dense Queries for Multiple-Object Tracking [[paper](https://arxiv.org/abs/2103.15145)]
+- **[ViViT]** ViViT: A Video Vision Transformer [[paper](https://arxiv.org/abs/2103.15691)]
+- **[CrossViT]** CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification[paper(https://arxiv.org/abs/2103.14899)]
+- **[TS-CAM]** TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization[[paper](https://arxiv.org/abs/2103.14862)]
+- Face Transformer for Recognition [[paper](https://arxiv.org/abs/2103.14803)]
+- On the Adversarial Robustness of Visual Transformers[[paper](https://arxiv.org/abs/2103.15670)]
 - Understanding Robustness of Transformers for Image Classification[[paper](https://arxiv.org/abs/2103.14586)]
 - Lifting Transformer for 3D Human Pose Estimation in Video[[paper](https://arxiv.org/abs/2103.14304)]
 - **[GSA-Net]** Global Self-Attention Networks for Image Recognition[[paper](https://arxiv.org/abs/2010.03019)]
@@ -91,6 +100,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 ### 2021
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
+- **[TransT]** Transformer Tracking  (**CVPR**) [[paper](https://arxiv.org/abs/2103.15436)] [[code](https://github.com/chenxin-dlut/TransT)]
 - Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking (**CVPR oral**) [[paper](https://arxiv.org/abs/2103.11681)]
 - **[VisTR]** End-to-End Video Instance Segmentation with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2011.14503)]
 - Transformer Interpretability Beyond Attention Visualization (**CVPR**) [[paper](https://arxiv.org/abs/2012.09838)] [[code](https://github.com/hila-chefer/Transformer-Explainability)]
