@@ -19,8 +19,8 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
-- **[PiT]** Spatiotemporal Transformer for Video-based Person Re-identification[[paper](https://arxiv.org/abs/2103.16469)] [[code](https://github.com/naver-ai/pit)]
--  Rethinking Spatial Dimensions of Vision Transformers [[paper](https://arxiv.org/abs/2103.16302)]
+- Spatiotemporal Transformer for Video-based Person Re-identification[[paper](https://arxiv.org/abs/2103.16469)] 
+- **[PiT]** Rethinking Spatial Dimensions of Vision Transformers [[paper](https://arxiv.org/abs/2103.16302)] [[code](https://github.com/naver-ai/pit)]
 - **[TransUNet]** TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation[[paper](https://arxiv.org/abs/2102.04306)] [[code](https://github.com/Beckschen/TransUNet)]
 - **[CvT]** CvT: Introducing Convolutions to Vision Transformers[[paper](https://arxiv.org/abs/2103.15808)] [[code](https://github.com/leoxiaobin/CvT)]
 - Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding [[paper](https://arxiv.org/abs/2103.15358)]
