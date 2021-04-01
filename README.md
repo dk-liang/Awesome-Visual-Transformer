@@ -19,6 +19,8 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[YOGO]** You Only Group Once: Efficient Point-Cloud Processing with Token
+Representation and Relation Inference Module[[paper](https://arxiv.org/abs/2103.09975)] [[code](https://github.com/chenfengxu714/YOGO.git)]
 - Going deeper with Image Transformers[[paper](https://arxiv.org/abs/2103.17239)] 
 - Learning Spatio-Temporal Transformer for Visual Tracking [[paper](https://arxiv.org/abs/2103.17154)] [[code](https://github.com/researchmm/Stark)]
 - **[DA-DETR]** DA-DETR: Domain Adaptive Detection Transformer by Hybrid Attention [[paper](https://arxiv.org/abs/2103.17084)]
