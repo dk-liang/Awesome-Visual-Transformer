@@ -19,6 +19,8 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- Group-Free 3D Object Detection via Transformers[[paper](https://arxiv.org/abs/2104.00678)] [[code](https://github.com/zeliu98/Group-Free-3D)]
+- **[STGT]** Spatial-Temporal Graph Transformer for Multiple Object Tracking [[paper](https://arxiv.org/abs/2104.00194)] 
 - **[YOGO]** You Only Group Once: Efficient Point-Cloud Processing with Token
 Representation and Relation Inference Module[[paper](https://arxiv.org/abs/2103.09975)] [[code](https://github.com/chenfengxu714/YOGO.git)]
 - Going deeper with Image Transformers[[paper](https://arxiv.org/abs/2103.17239)] 
@@ -109,6 +111,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 ### 2021
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
+- **[LoFTR]** LoFTR: Detector-Free Local Feature Matching with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2104.00680)] [[code](https://zju3dv.github.io/loftr/)]
 - Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2103.16553)] 
 - **[SETR]** Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2012.15840)] [[code](https://fudan-zvg.github.io/SETR/)]
 - **[TransT]** Transformer Tracking  (**CVPR**) [[paper](https://arxiv.org/abs/2103.15436)] [[code](https://github.com/chenxin-dlut/TransT)]
