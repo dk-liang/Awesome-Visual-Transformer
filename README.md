@@ -7,7 +7,7 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
 
 ### Transformer original paper
 
-- [Attention is All You Need](https://arxiv.org/abs/1706.03762)
+- [Attention is All You Need](https://arxiv.org/abs/1706.03762) (NIPS 2017)
 
 ### Technical blog
 
@@ -19,7 +19,11 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
-- Group-Free 3D Object Detection via Transformers[[paper](https://arxiv.org/abs/2104.00678)] [[code](https://github.com/zeliu98/Group-Free-3D)]
+- **[LeViT]** LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference [[paper](https://arxiv.org/abs/2104.01136)] 
+- **[TubeR]** TubeR: Tube-Transformer for Action Detection [[paper](https://arxiv.org/abs/2104.00969)]
+- **[AAformer]** AAformer: Auto-Aligned Transformer for Person Re-Identification [[paper](https://arxiv.org/abs/2104.00921)]
+- **[TFill]** TFill: Image Completion via a Transformer-Based Architecture [[paper](https://arxiv.org/abs/2104.00845)]
+- Group-Free 3D Object Detection via Transformers [[paper](https://arxiv.org/abs/2104.00678)] [[code](https://github.com/zeliu98/Group-Free-3D)]
 - **[STGT]** Spatial-Temporal Graph Transformer for Multiple Object Tracking [[paper](https://arxiv.org/abs/2104.00194)] 
 - **[YOGO]** You Only Group Once: Efficient Point-Cloud Processing with Token
 Representation and Relation Inference Module[[paper](https://arxiv.org/abs/2103.09975)] [[code](https://github.com/chenfengxu714/YOGO.git)]
@@ -82,7 +86,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[BoTNet]** Bottleneck Transformers for Visual Recognition [[paper](https://arxiv.org/abs/2101.11605)]
 - **[CPTR]** CPTR: Full Transformer Network for Image Captioning [[paper](https://arxiv.org/abs/2101.10804)]
 - Learn to Dance with AIST++: Music Conditioned 3D Dance Generation [[paper](https://arxiv.org/abs/2101.08779)] [[code](https://google.github.io/aichoreographer/)]
-- **[Trans2Seg]**  Segmenting Transparent Object in the Wild with Transformer [[paper](https://github.com/xieenze/Trans2Seg)] [[code](https://github.com/xieenze/Trans2Seg)]
+- **[Trans2Seg]**  Segmenting Transparent Object in the Wild with Transformer [[paper](https://arxiv.org/abs/2101.08461)] [[code](https://github.com/xieenze/Trans2Seg)]
 - **[SMCA]**  Fast Convergence of DETR with Spatially Modulated Co-Attention [[paper](https://arxiv.org/abs/2101.07448)]
 - Investigating the Vision Transformer Model for Image Retrieval Tasks [[paper](https://arxiv.org/abs/2101.03771)]
 - **[Trear]** Trear: Transformer-based RGB-D Egocentric Action Recognition [[paper](https://arxiv.org/abs/2101.03904)]
@@ -99,15 +103,15 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[Taming-transformers]** Taming Transformers for High-Resolution Image Synthesis [[paper](https://arxiv.org/abs/2012.09841)] [[code](https://compvis.github.io/taming-transformers/)]
 - **[SceneFormer]** SceneFormer: Indoor Scene Generation with Transformers [[paper](https://arxiv.org/abs/2012.09793)] 
 - **[PCT]** PCT: Point Cloud Transformer [[paper](https://arxiv.org/abs/2012.09688)] 
-- **[METRO]** End-to-End Human Pose and Mesh Reconstruction with Transformers [[paper]](https://arxiv.org/abs/2012.09760)
-- **[PointTransformer]** Point Transformer[[paper](https://arxiv.org/abs/2012.09164)]
+- **[METRO]** End-to-End Human Pose and Mesh Reconstruction with Transformers [[paper](https://arxiv.org/abs/2012.09760)]
+- **[PointTransformer]** Point Transformer [[paper](https://arxiv.org/abs/2012.09164)]
 - **[PED]** DETR for Pedestrian Detection[[paper](https://arxiv.org/abs/2012.06785)]
 - Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry[[paper](https://arxiv.org/abs/2101.02143)]
-- **[C-Tran]** General Multi-label Image Classification with Transformers[[paper](https://arxiv.org/abs/2011.14027)]
-- **[TSP-FCOS]** Rethinking Transformer-based Set Prediction for Object Detection[[paper](https://arxiv.org/abs/2011.10881)]
-- **[ACT]** End-to-End Object Detection with Adaptive Clustering Transformer[[paper](https://arxiv.org/abs/2011.09315)]
-- **[STTR]** Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers[[paper](https://arxiv.org/abs/2011.02910v2)] [[code](https://github.com/mli0603/stereo-transformer)]
-- **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision[[paper](https://arxiv.org/abs/2006.03677)]
+- **[C-Tran]** General Multi-label Image Classification with Transformers [[paper](https://arxiv.org/abs/2011.14027)]
+- **[TSP-FCOS]** Rethinking Transformer-based Set Prediction for Object Detection [[paper](https://arxiv.org/abs/2011.10881)]
+- **[ACT]** End-to-End Object Detection with Adaptive Clustering Transformer [[paper](https://arxiv.org/abs/2011.09315)]
+- **[STTR]** Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2011.02910v2)] [[code](https://github.com/mli0603/stereo-transformer)]
+- **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper](https://arxiv.org/abs/2006.03677)]
 
 ### 2021
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
@@ -118,19 +122,19 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking (**CVPR oral**) [[paper](https://arxiv.org/abs/2103.11681)]
 - **[VisTR]** End-to-End Video Instance Segmentation with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2011.14503)]
 - Transformer Interpretability Beyond Attention Visualization (**CVPR**) [[paper](https://arxiv.org/abs/2012.09838)] [[code](https://github.com/hila-chefer/Transformer-Explainability)]
-- **[IPT]** Pre-Trained Image Processing Transformer(**CVPR**) [[paper](https://arxiv.org/abs/2012.00364)]
+- **[IPT]** Pre-Trained Image Processing Transformer (**CVPR**) [[paper](https://arxiv.org/abs/2012.00364)]
 - **[UP-DETR]** UP-DETR: Unsupervised Pre-training for Object Detection with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2011.09094)]
-- **[Vision Transformer]** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale(**ICLR**)[[paper](https://arxiv.org/abs/2010.11929)] [[code](https://github.com/google-research/vision_transformer)]
-- **[Deformable DETR]** Deformable DETR: Deformable Transformers for End-to-End Object Detection(**ICLR**)[[paper](https://arxiv.org/abs/2010.04159)] [[code](https://github.com/fundamentalvision/Deformable-DETR)]
+- **[Vision Transformer]** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (**ICLR**)[[paper](https://arxiv.org/abs/2010.11929)] [[code](https://github.com/google-research/vision_transformer)]
+- **[Deformable DETR]** Deformable DETR: Deformable Transformers for End-to-End Object Detection (**ICLR**)[[paper](https://arxiv.org/abs/2010.04159)] [[code](https://github.com/fundamentalvision/Deformable-DETR)]
 - **[LAMBDANETWORKS]** MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION (**ICLR**) [paper](https://openreview.net/pdf?id=xTJEN-ggl1b)] [[code](https://github.com/lucidrains/lambda-networks)]
-- **[LSTR]** End-to-end Lane Shape Prediction with Transformers(**WACV**) [[paper](https://arxiv.org/abs/2011.04233)] [[code](https://github.com/liuruijin17/LSTR)]
+- **[LSTR]** End-to-end Lane Shape Prediction with Transformers (**WACV**) [[paper](https://arxiv.org/abs/2011.04233)] [[code](https://github.com/liuruijin17/LSTR)]
 
 ### 2020
 
 - **[DETR]** End-to-End Object Detection with Transformers (**ECCV**) [[paper](https://arxiv.org/abs/2005.12872)] [[code](https://github.com/facebookresearch/detr)]
-- **[FPT]** Feature Pyramid Transformer(**CVPR**) [[paper](https://arxiv.org/abs/2007.09451)] [[code](https://github.com/ZHANGDONG-NJUST/FPT)]
-- **[TTSR]** Learning Texture Transformer Network for Image Super-Resolution(**CVPR**) [[paper](https://arxiv.org/abs/2006.04139)] [[code](https://github.com/researchmm/TTSR)]
-- **[STTN]** Learning Joint Spatial-Temporal Transformations for Video Inpainting(**ECCV**) [[paper](https://arxiv.org/abs/2007.10247)] [[code](https://github.com/researchmm/STTN)]
+- **[FPT]** Feature Pyramid Transformer (**CVPR**) [[paper](https://arxiv.org/abs/2007.09451)] [[code](https://github.com/ZHANGDONG-NJUST/FPT)]
+- **[TTSR]** Learning Texture Transformer Network for Image Super-Resolution (**CVPR**) [[paper](https://arxiv.org/abs/2006.04139)] [[code](https://github.com/researchmm/TTSR)]
+- **[STTN]** Learning Joint Spatial-Temporal Transformations for Video Inpainting (**ECCV**) [[paper](https://arxiv.org/abs/2007.10247)] [[code](https://github.com/researchmm/STTN)]
 
 ### Acknowledgement
 
