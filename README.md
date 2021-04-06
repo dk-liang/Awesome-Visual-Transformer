@@ -19,6 +19,11 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- An Empirical Study of Training Self-Supervised Visual Transformers [[paper](https://arxiv.org/abs/2104.02057)]
+- A Video Is Worth Three Views: Trigeminal Transformers for Video-based Person Re-identification [[paper](https://arxiv.org/abs/2104.01745)]
+- **[AOT-GAN]** Aggregated Contextual Transformations for High-Resolution Image Inpainting [[paper](https://arxiv.org/abs/2104.01431)] [[code](https://github.com/researchmm/AOT-GAN-for-Inpainting)]
+- Deepfake Detection Scheme Based on Vision Transformer and Distillation [[paper](https://arxiv.org/abs/2104.01353)]
+- **[ATAG]** Augmented Transformer with Adaptive Graph for Temporal Action Proposal Generation [[paper](https://arxiv.org/pdf/2103.16024)] 
 - **[LeViT]** LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference [[paper](https://arxiv.org/abs/2104.01136)] 
 - **[TubeR]** TubeR: Tube-Transformer for Action Detection [[paper](https://arxiv.org/abs/2104.00969)]
 - **[AAformer]** AAformer: Auto-Aligned Transformer for Person Re-Identification [[paper](https://arxiv.org/abs/2104.00921)]
