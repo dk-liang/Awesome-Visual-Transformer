@@ -19,6 +19,7 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- Transformers Solve the Limited Receptive Field for Monocular Depth Prediction [[paper](https://arxiv.org/abs/2103.12091)] [[code](https://github.com/ygjwd12345/TransDepth)]
 - On the Robustness of Vision Transformers to Adversarial Examples [[paper](https://arxiv.org/abs/2104.02610)]
 - An Empirical Study of Training Self-Supervised Visual Transformers [[paper](https://arxiv.org/abs/2104.02057)]
 - A Video Is Worth Three Views: Trigeminal Transformers for Video-based Person Re-identification [[paper](https://arxiv.org/abs/2104.01745)]
