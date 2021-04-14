@@ -19,6 +19,10 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[CoaT]** Co-Scale Conv-Attentional Image Transformers [[paper](https://arxiv.org/abs/2104.06399)]
+- **[LocalViT]** LocalViT: Bringing Locality to Vision Transformers [[paper](https://arxiv.org/abs/2104.05707)] [[code](https://github.com/ofsoundof/LocalViT)]
+- **[ACTOR]** Action-Conditioned 3D Human Motion Synthesis with Transformer VAE [[paper](https://arxiv.org/abs/2104.05670)]
+- **[CIT]** Cloth Interactive Transformer for Virtual Try-On [[paper](https://arxiv.org/abs/2104.05519)] [[code](https://arxiv.org/abs/2104.05519)]
 - Handwriting Transformers [[paper](https://arxiv.org/abs/2104.03964)]
 - **[SiT]** SiT: Self-supervised vIsion Transformer [[paper](https://arxiv.org/abs/2104.03602)] [[code](https://github.com/Sara-Ahmed/SiT)]
 - On the Robustness of Vision Transformers to Adversarial Examples [[paper](https://arxiv.org/abs/2104.02610)]
