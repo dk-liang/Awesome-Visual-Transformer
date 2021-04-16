@@ -19,6 +19,7 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- Geometry-Free View Synthesis: Transformers and no 3D Priors [[paper](https://arxiv.org/abs/2104.07652)] [[code](https://git.io/JOnwn)]
 - **[CoaT]** Co-Scale Conv-Attentional Image Transformers [[paper](https://arxiv.org/abs/2104.06399)] [[code](https://github.com/mlpc-ucsd/CoaT)]
 - **[LocalViT]** LocalViT: Bringing Locality to Vision Transformers [[paper](https://arxiv.org/abs/2104.05707)] [[code](https://github.com/ofsoundof/LocalViT)]
 - **[ACTOR]** Action-Conditioned 3D Human Motion Synthesis with Transformer VAE [[paper](https://arxiv.org/abs/2104.05670)]
@@ -127,6 +128,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 ### 2021
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
+- Pose Recognition with Cascade Transformers [[paper](https://arxiv.org/abs/2104.06976)]
 - Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning  (**CVPR**) [[paper](https://arxiv.org/abs/2104.03135)]
 - **[LoFTR]** LoFTR: Detector-Free Local Feature Matching with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2104.00680)] [[code](https://zju3dv.github.io/loftr/)]
 - Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2103.16553)] 
