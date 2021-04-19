@@ -19,6 +19,8 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- Self-supervised Video Retrieval Transformer Network [[paper](https://arxiv.org/abs/2104.07993)]
+- Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification [[paper](https://arxiv.org/abs/2104.07235)]
 - **[TransGAN]** TransGAN: Two Transformers Can Make One Strong GAN [[paper](https://arxiv.org/abs/2102.07074)] [[code](https://github.com/VITA-Group/TransGAN)]
 - Geometry-Free View Synthesis: Transformers and no 3D Priors [[paper](https://arxiv.org/abs/2104.07652)] [[code](https://git.io/JOnwn)]
 - **[CoaT]** Co-Scale Conv-Attentional Image Transformers [[paper](https://arxiv.org/abs/2104.06399)] [[code](https://github.com/mlpc-ucsd/CoaT)]
