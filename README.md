@@ -19,7 +19,7 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
-- **[TransCrowd]** TransCrowd: Weakly-Supervised Crowd Counting with Transformer [[paper](https://arxiv.org/abs/2104.09116)] [[paper](https://github.com/dk-liang/TransCrowd)]
+- **[TransCrowd]** TransCrowd: Weakly-Supervised Crowd Counting with Transformer [[paper](https://arxiv.org/abs/2104.09116)] [[code](https://github.com/dk-liang/TransCrowd)]
 - **[TransVG]** TransVG: End-to-End Visual Grounding with Transformers [[paper](https://arxiv.org/abs/2104.08541)]
 - Visual Transformer Pruning [[paper](https://arxiv.org/abs/2104.08500)]
 - Self-supervised Video Retrieval Transformer Network [[paper](https://arxiv.org/abs/2104.07993)]
