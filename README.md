@@ -19,6 +19,10 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[TransRPPG]** TransRPPG: Remote Photoplethysmography Transformer for 3D Mask Face Presentation Attack Detection [[paper](https://arxiv.org/abs/2104.07419)]
+- **[VideoGPT]** VideoGPT: Video Generation using VQ-VAE and Transformers [[paper](https://arxiv.org/abs/2104.10157)]
+- **[M2TR]** M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection [[paper](https://arxiv.org/abs/2104.09770)]
+- Transformer Transforms Salient Object Detection and Camouflaged Object Detection [[paper](https://arxiv.org/abs/2104.10127)]
 - **[TransCrowd]** TransCrowd: Weakly-Supervised Crowd Counting with Transformer [[paper](https://arxiv.org/abs/2104.09116)] [[code](https://github.com/dk-liang/TransCrowd)]
 - **[TransVG]** TransVG: End-to-End Visual Grounding with Transformers [[paper](https://arxiv.org/abs/2104.08541)]
 - Visual Transformer Pruning [[paper](https://arxiv.org/abs/2104.08500)]
@@ -134,7 +138,8 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 ### 2021
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
-- Multi-Modal Fusion Transformer for End-to-End Autonomous Driving (**CVPR**) [[paper](https://arxiv.org/abs/2104.09224)]
+- VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization (**ISIE**) [[paper](https://arxiv.org/abs/2104.10036)]
+- **[TransFuser]** Multi-Modal Fusion Transformer for End-to-End Autonomous Driving (**CVPR**) [[paper](https://arxiv.org/abs/2104.09224)] [[code](https://github.com/autonomousvision/transfuser)]
 - Pose Recognition with Cascade Transformers  (**CVPR**) [[paper](https://arxiv.org/abs/2104.06976)]
 - Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning  (**CVPR**) [[paper](https://arxiv.org/abs/2104.03135)]
 - **[LoFTR]** LoFTR: Detector-Free Local Feature Matching with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2104.00680)] [[code](https://zju3dv.github.io/loftr/)]
