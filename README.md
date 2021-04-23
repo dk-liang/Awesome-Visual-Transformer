@@ -19,6 +19,10 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[MViT]** Multiscale Vision Transformers [[paper](https://arxiv.org/abs/2104.11227)] [[code](https://github.com/facebookresearch/SlowFast)]
+- **[VATT]** VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text [[paper](https://arxiv.org/abs/2104.11178)]
+- **[So-ViT]** So-ViT: Mind Visual Tokens for Vision Transformer [[paper](https://arxiv.org/abs/2104.10935)] [[code](https://github.com/jiangtaoxie/So-ViT)]
+- Token Labeling: Training a 85.5% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet [[paper](https://arxiv.org/abs/2104.10858)] [[code](https://github.com/zihangJiang/TokenLabeling)]
 - **[TransRPPG]** TransRPPG: Remote Photoplethysmography Transformer for 3D Mask Face Presentation Attack Detection [[paper](https://arxiv.org/abs/2104.07419)]
 - **[VideoGPT]** VideoGPT: Video Generation using VQ-VAE and Transformers [[paper](https://arxiv.org/abs/2104.10157)]
 - **[M2TR]** M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection [[paper](https://arxiv.org/abs/2104.09770)]
