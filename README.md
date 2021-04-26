@@ -19,6 +19,9 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[VidTr]** VidTr: Video Transformer Without Convolutions [[paper](https://arxiv.org/abs/2104.11746)] 
+- **[Skeletor]** Skeletor: Skeletal Transformers for Robust Body-Pose Estimation [[paper](https://arxiv.org/abs/2104.11712)] 
+- **[FaceT]** Learning to Cluster Faces via Transformer [[paper](https://arxiv.org/abs/2104.11502)]
 - **[MViT]** Multiscale Vision Transformers [[paper](https://arxiv.org/abs/2104.11227)] [[code](https://github.com/facebookresearch/SlowFast)]
 - **[VATT]** VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text [[paper](https://arxiv.org/abs/2104.11178)]
 - **[So-ViT]** So-ViT: Mind Visual Tokens for Vision Transformer [[paper](https://arxiv.org/abs/2104.10935)] [[code](https://github.com/jiangtaoxie/So-ViT)]
