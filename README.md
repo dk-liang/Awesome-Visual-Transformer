@@ -19,6 +19,7 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[M3DeTR]** M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers [[paper](https://arxiv.org/abs/2104.11896)] 
 - **[VidTr]** VidTr: Video Transformer Without Convolutions [[paper](https://arxiv.org/abs/2104.11746)] 
 - **[Skeletor]** Skeletor: Skeletal Transformers for Robust Body-Pose Estimation [[paper](https://arxiv.org/abs/2104.11712)] 
 - **[FaceT]** Learning to Cluster Faces via Transformer [[paper](https://arxiv.org/abs/2104.11502)]
