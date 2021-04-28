@@ -19,6 +19,11 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[DTNet]** Dual Transformer for Point Cloud Analysis [[paper](https://arxiv.org/abs/2104.13044)] 
+- Improve Vision Transformers Training by Suppressing Over-smoothing [[paper](https://arxiv.org/abs/2104.12753)] [[code](https://github.com/ChengyueGongR/PatchVisionTransformer)]
+- **[Visformer]** Visformer: The Vision-friendly Transformer [[paper](https://arxiv.org/abs/2104.12533)] [[code](https://github.com/danczs/Visformer)]
+- Transformer Meets DCFAM: A Novel Semantic Segmentation Scheme for Fine-Resolution Remote Sensing Images [[paper](https://arxiv.org/abs/2104.12137)]
+- **[VST]** Visual Saliency Transformer [[paper](https://arxiv.org/abs/2104.12099)] 
 - **[M3DeTR]** M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers [[paper](https://arxiv.org/abs/2104.11896)] 
 - **[VidTr]** VidTr: Video Transformer Without Convolutions [[paper](https://arxiv.org/abs/2104.11746)] 
 - **[Skeletor]** Skeletor: Skeletal Transformers for Robust Body-Pose Estimation [[paper](https://arxiv.org/abs/2104.11712)] 
