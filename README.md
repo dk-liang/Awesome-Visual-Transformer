@@ -19,6 +19,11 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[InTra]** Inpainting Transformer for Anomaly Detection [[paper](https://arxiv.org/abs/2104.13897)] 
+- **[Twins]** Twins: Revisiting Spatial Attention Design in Vision Transformers [[paper](https://arxiv.org/abs/2104.13840)] [[code](https://github.com/Meituan-AutoML/Twins)]
+- **[MLMSPT]** Point Cloud Learning with Transformer [[paper](https://arxiv.org/abs/2104.13636)]
+- Medical Transformer: Universal Brain Encoder for 3D MRI Analysis [[paper](https://arxiv.org/abs/2104.13633)]
+- **[ConTNet]** ConTNet: Why not use convolution and transformer at the same time? [[paper](https://arxiv.org/abs/2104.13497)] [[code](https://github.com/yan-hao-tian/ConTNet)]
 - **[DTNet]** Dual Transformer for Point Cloud Analysis [[paper](https://arxiv.org/abs/2104.13044)] 
 - Improve Vision Transformers Training by Suppressing Over-smoothing [[paper](https://arxiv.org/abs/2104.12753)] [[code](https://github.com/ChengyueGongR/PatchVisionTransformer)]
 - **[Visformer]** Visformer: The Vision-friendly Transformer [[paper](https://arxiv.org/abs/2104.12533)] [[code](https://github.com/danczs/Visformer)]
@@ -153,6 +158,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 ### 2021
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
 - VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization (**ISIE**) [[paper](https://arxiv.org/abs/2104.10036)]
+- **[HOTR]** HOTR: End-to-End Human-Object Interaction Detection with Transformers (**CVPR oral**) [[paper](https://arxiv.org/abs/2104.13682)] 
 - **[TransFuser]** Multi-Modal Fusion Transformer for End-to-End Autonomous Driving (**CVPR**) [[paper](https://arxiv.org/abs/2104.09224)] [[code](https://github.com/autonomousvision/transfuser)]
 - Pose Recognition with Cascade Transformers  (**CVPR**) [[paper](https://arxiv.org/abs/2104.06976)]
 - Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning  (**CVPR**) [[paper](https://arxiv.org/abs/2104.03135)]
