@@ -19,6 +19,8 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[GasHis-Transformer]** GasHis-Transformer: A Multi-scale Visual Transformer Approach for Gastric Histopathology Image Classification [[paper](https://arxiv.org/abs/2104.14528)] 
+- Emerging Properties in Self-Supervised Vision Transformers [[paper](https://arxiv.org/abs/2104.14294)]
 - **[InTra]** Inpainting Transformer for Anomaly Detection [[paper](https://arxiv.org/abs/2104.13897)] 
 - **[Twins]** Twins: Revisiting Spatial Attention Design in Vision Transformers [[paper](https://arxiv.org/abs/2104.13840)] [[code](https://github.com/Meituan-AutoML/Twins)]
 - **[MLMSPT]** Point Cloud Learning with Transformer [[paper](https://arxiv.org/abs/2104.13636)]
