@@ -19,6 +19,11 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[CAT]** CAT: Cross-Attention Transformer for One-Shot Object Detection [[paper](https://arxiv.org/abs/2104.14984)] 
+- **[CoSformer]** CoSformer: Detecting Co-Salient Object with Transformers [[paper](https://arxiv.org/abs/2104.14729)]
+- End-to-End Attention-based Image Captioning [[paper](https://arxiv.org/abs/2104.14721)]
+- **[PMTrans]** Pyramid Medical Transformer for Medical Image Segmentation [[paper](https://arxiv.org/abs/2104.14702)]
+- **[HandsFormer]** HandsFormer: Keypoint Transformer for Monocular 3D Pose Estimation ofHands and Object in Interaction [[paper](https://arxiv.org/abs/2104.14639)]
 - **[GasHis-Transformer]** GasHis-Transformer: A Multi-scale Visual Transformer Approach for Gastric Histopathology Image Classification [[paper](https://arxiv.org/abs/2104.14528)] 
 - Emerging Properties in Self-Supervised Vision Transformers [[paper](https://arxiv.org/abs/2104.14294)]
 - **[InTra]** Inpainting Transformer for Anomaly Detection [[paper](https://arxiv.org/abs/2104.13897)] 
