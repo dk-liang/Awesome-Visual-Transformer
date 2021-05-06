@@ -19,6 +19,7 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[PST]**Visual Composite Set Detection Using Part-and-Sum Transformers [[paper](https://arxiv.org/abs/2105.02170)] 
 - **[ISTR]** ISTR: End-to-End Instance Segmentation with Transformers [[paper](https://arxiv.org/abs/2105.00637)] [[code](https://github.com/hujiecpp/ISTR)]
 - **[CAT]** CAT: Cross-Attention Transformer for One-Shot Object Detection [[paper](https://arxiv.org/abs/2104.14984)] 
 - **[CoSformer]** CoSformer: Detecting Co-Salient Object with Transformers [[paper](https://arxiv.org/abs/2104.14729)]
