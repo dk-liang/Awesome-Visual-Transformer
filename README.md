@@ -19,7 +19,15 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- Self-Supervised Learning with Swin Transformers [[paper](https://arxiv.org/abs/2105.04553)] [[code](https://github.com/SwinTransformer/Transformer-SSL)]
+- **[SCTN]** SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation [[paper](https://arxiv.org/abs/2105.04447)] 
+- **[RelationTrack]** RelationTrack: Relation-aware Multiple Object Tracking with Decoupled Representation [[paper](https://arxiv.org/abs/2105.04322)]
+- **[VGTR]** Visual Grounding with Transformers [[paper](https://arxiv.org/abs/2105.04281)]
 - **[PST]** Visual Composite Set Detection Using Part-and-Sum Transformers [[paper](https://arxiv.org/abs/2105.02170)] 
+- **[TrTr]** TrTr: Visual Tracking with Transformer [[paper](https://arxiv.org/abs/2105.03817)] [[code](https://github.com/tongtybj/TrTr)]
+- **[MOTR]** MOTR: End-to-End Multiple-Object Tracking with TRansformer [[paper](https://arxiv.org/abs/2105.03247)] [[code](https://github.com/megvii-model/MOTR)]
+- Attention for Image Registration (AiR): an unsupervised Transformer approach [[paper](https://arxiv.org/abs/2105.02282)] 
+- **[TransHash]** TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval [[paper](https://arxiv.org/abs/2105.01823)]
 - **[ISTR]** ISTR: End-to-End Instance Segmentation with Transformers [[paper](https://arxiv.org/abs/2105.00637)] [[code](https://github.com/hujiecpp/ISTR)]
 - **[CAT]** CAT: Cross-Attention Transformer for One-Shot Object Detection [[paper](https://arxiv.org/abs/2104.14984)] 
 - **[CoSformer]** CoSformer: Detecting Co-Salient Object with Transformers [[paper](https://arxiv.org/abs/2104.14729)]
