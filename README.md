@@ -19,6 +19,8 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[Segmenter]** Segmenter: Transformer for Semantic Segmentation [[paper](https://arxiv.org/abs/2105.05633)] [[code](https://github.com/rstrudel/segmenter)]
+- **[Swin-Unet]** Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation [[paper](https://arxiv.org/abs/2105.05537)] [[code](https://github.com/HuCaoFighting/Swin-Unet)]
 - Self-Supervised Learning with Swin Transformers [[paper](https://arxiv.org/abs/2105.04553)] [[code](https://github.com/SwinTransformer/Transformer-SSL)]
 - **[SCTN]** SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation [[paper](https://arxiv.org/abs/2105.04447)] 
 - **[RelationTrack]** RelationTrack: Relation-aware Multiple Object Tracking with Decoupled Representation [[paper](https://arxiv.org/abs/2105.04322)]
