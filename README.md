@@ -19,6 +19,7 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- Manipulation Detection in Satellite Images Using Vision Transformer [[paper](https://arxiv.org/abs/2105.06373)]
 - **[Segmenter]** Segmenter: Transformer for Semantic Segmentation [[paper](https://arxiv.org/abs/2105.05633)] [[code](https://github.com/rstrudel/segmenter)]
 - **[Swin-Unet]** Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation [[paper](https://arxiv.org/abs/2105.05537)] [[code](https://github.com/HuCaoFighting/Swin-Unet)]
 - Self-Supervised Learning with Swin Transformers [[paper](https://arxiv.org/abs/2105.04553)] [[code](https://github.com/SwinTransformer/Transformer-SSL)]
@@ -178,6 +179,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
 - VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization (**ISIE**) [[paper](https://arxiv.org/abs/2104.10036)]
 - **[HOTR]** HOTR: End-to-End Human-Object Interaction Detection with Transformers (**CVPR oral**) [[paper](https://arxiv.org/abs/2104.13682)] 
+- High-Resolution Complex Scene Synthesis with Transformers (**CVPRW**) [[paper](https://arxiv.org/abs/2105.06458)]
 - **[TransFuser]** Multi-Modal Fusion Transformer for End-to-End Autonomous Driving (**CVPR**) [[paper](https://arxiv.org/abs/2104.09224)] [[code](https://github.com/autonomousvision/transfuser)]
 - Pose Recognition with Cascade Transformers  (**CVPR**) [[paper](https://arxiv.org/abs/2104.06976)]
 - Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning  (**CVPR**) [[paper](https://arxiv.org/abs/2104.03135)]
