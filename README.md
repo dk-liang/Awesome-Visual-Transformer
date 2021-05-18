@@ -19,6 +19,8 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- Rethinking the Design Principles of Robust Vision Transformer [[paper](https://arxiv.org/abs/2105.07926)]
+- Vision Transformers are Robust Learners [[paper](https://arxiv.org/abs/2105.07581)] [[code](https://git.io/J3VO0)]
 - Manipulation Detection in Satellite Images Using Vision Transformer [[paper](https://arxiv.org/abs/2105.06373)]
 - **[Segmenter]** Segmenter: Transformer for Semantic Segmentation [[paper](https://arxiv.org/abs/2105.05633)] [[code](https://github.com/rstrudel/segmenter)]
 - **[Swin-Unet]** Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation [[paper](https://arxiv.org/abs/2105.05537)] [[code](https://github.com/HuCaoFighting/Swin-Unet)]
