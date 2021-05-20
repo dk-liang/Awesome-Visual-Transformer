@@ -180,6 +180,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 ### 2021
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
 - VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization (**ISIE**) [[paper](https://arxiv.org/abs/2104.10036)]
+- Vision Transformer for Fast and Efficient Scene Text Recognition (**ICDAR**) [[paper](https://arxiv.org/abs/2105.08582)]
 - **[HOTR]** HOTR: End-to-End Human-Object Interaction Detection with Transformers (**CVPR oral**) [[paper](https://arxiv.org/abs/2104.13682)] 
 - High-Resolution Complex Scene Synthesis with Transformers (**CVPRW**) [[paper](https://arxiv.org/abs/2105.06458)]
 - **[TransFuser]** Multi-Modal Fusion Transformer for End-to-End Autonomous Driving (**CVPR**) [[paper](https://arxiv.org/abs/2104.09224)] [[code](https://github.com/autonomousvision/transfuser)]
