@@ -180,6 +180,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 ### 2021
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
 - VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization (**ISIE**) [[paper](https://arxiv.org/abs/2104.10036)]
+- Medical Image Segmentation using Squeeze-and-Expansion Transformers  (**IJCAI**) [[paper](https://arxiv.org/abs/2105.09511)]
 - Vision Transformer for Fast and Efficient Scene Text Recognition (**ICDAR**) [[paper](https://arxiv.org/abs/2105.08582)]
 - **[HOTR]** HOTR: End-to-End Human-Object Interaction Detection with Transformers (**CVPR oral**) [[paper](https://arxiv.org/abs/2104.13682)] 
 - High-Resolution Complex Scene Synthesis with Transformers (**CVPRW**) [[paper](https://arxiv.org/abs/2105.06458)]
@@ -195,6 +196,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - Transformer Interpretability Beyond Attention Visualization (**CVPR**) [[paper](https://arxiv.org/abs/2012.09838)] [[code](https://github.com/hila-chefer/Transformer-Explainability)]
 - **[IPT]** Pre-Trained Image Processing Transformer (**CVPR**) [[paper](https://arxiv.org/abs/2012.00364)]
 - **[UP-DETR]** UP-DETR: Unsupervised Pre-training for Object Detection with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2011.09094)]
+- **[VTNet]** VTNet: Visual Transformer Network for Object Goal Navigation (**ICLR**)[[paper](https://arxiv.org/abs/2105.09447)]
 - **[Vision Transformer]** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (**ICLR**)[[paper](https://arxiv.org/abs/2010.11929)] [[code](https://github.com/google-research/vision_transformer)]
 - **[Deformable DETR]** Deformable DETR: Deformable Transformers for End-to-End Object Detection (**ICLR**)[[paper](https://arxiv.org/abs/2010.04159)] [[code](https://github.com/fundamentalvision/Deformable-DETR)]
 - **[LAMBDANETWORKS]** MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION (**ICLR**) [paper](https://openreview.net/pdf?id=xTJEN-ggl1b)] [[code](https://github.com/lucidrains/lambda-networks)]
