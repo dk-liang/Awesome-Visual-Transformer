@@ -19,6 +19,8 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- Intriguing Properties of Vision Transformers [[paper](https://arxiv.org/abs/2105.10497)] [[code](https://git.io/Js15X)]
+- Combining Transformer Generators with Convolutional Discriminators [[paper](https://arxiv.org/abs/2105.10189)]
 - Rethinking the Design Principles of Robust Vision Transformer [[paper](https://arxiv.org/abs/2105.07926)]
 - Vision Transformers are Robust Learners [[paper](https://arxiv.org/abs/2105.07581)] [[code](https://git.io/J3VO0)]
 - Manipulation Detection in Satellite Images Using Vision Transformer [[paper](https://arxiv.org/abs/2105.06373)]
