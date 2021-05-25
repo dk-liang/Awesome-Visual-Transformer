@@ -19,7 +19,10 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
-- Intriguing Properties of Vision Transformers [[paper](https://arxiv.org/abs/2105.10497)] [[code](https://git.io/Js15X)]
+- Boosting Crowd Counting with Transformers [[paper](https://arxiv.org/abs/2105.10926)] 
+- COTR: Convolution in Transformer Network for End to End Polyp Detection [[paper](https://arxiv.org/abs/2105.10925)]
+- **[TransVOD]** End-to-End Video Object Detection with Spatial-Temporal Transformers [[paper](https://arxiv.org/abs/2105.10920)] [[code](https://github.com/SJTU-LuHe/TransVOD)]
+- Intriguing Properties of Vision Transformers [[paper](https://arxiv.org/abs/2105.10497)] [[code](https://git.io/Js15X)] 
 - Combining Transformer Generators with Convolutional Discriminators [[paper](https://arxiv.org/abs/2105.10189)]
 - Rethinking the Design Principles of Robust Vision Transformer [[paper](https://arxiv.org/abs/2105.07926)]
 - Vision Transformers are Robust Learners [[paper](https://arxiv.org/abs/2105.07581)] [[code](https://git.io/J3VO0)]
