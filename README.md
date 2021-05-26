@@ -19,6 +19,7 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
 ### arXiv papers
+- **[TAPG]** Temporal Action Proposal Generation with Transformers [[paper](https://arxiv.org/abs/2105.12043)] 
 - Boosting Crowd Counting with Transformers [[paper](https://arxiv.org/abs/2105.10926)] 
 - COTR: Convolution in Transformer Network for End to End Polyp Detection [[paper](https://arxiv.org/abs/2105.10925)]
 - **[TransVOD]** End-to-End Video Object Detection with Spatial-Temporal Transformers [[paper](https://arxiv.org/abs/2105.10920)] [[code](https://github.com/SJTU-LuHe/TransVOD)]
