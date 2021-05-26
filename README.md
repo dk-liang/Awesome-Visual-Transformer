@@ -1,6 +1,8 @@
 # Awesome Visual-Transformer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Collect some Transformer with Computer-Vision (CV) papers. If you find some ignored papers, please open issues or pull requests.
+Collect some Transformer with Computer-Vision (CV) papers. 
+
+If you find some overlooked papers, please open issues or pull requests.
 
 
 ## Papers
@@ -15,8 +17,8 @@ Collect some Transformer with Computer-Vision (CV) papers. If you find some igno
 - [Chinese Blog] Vision Transformer 超详细解读 (原理分析+代码解读) [[Link](https://zhuanlan.zhihu.com/p/348593638)]
 
 ### Survey
-  - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.01.04
-  - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
+  - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.02.22
+  - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
 
 ### arXiv papers
 - **[TAPG]** Temporal Action Proposal Generation with Transformers [[paper](https://arxiv.org/abs/2105.12043)] 
