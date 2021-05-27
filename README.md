@@ -21,6 +21,7 @@ If you find some overlooked papers, please open issues or pull requests.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
 
 ### arXiv papers
+- **[NesT]** Aggregating Nested Transformers [[paper](https://arxiv.org/abs/2105.12723)] 
 - **[TAPG]** Temporal Action Proposal Generation with Transformers [[paper](https://arxiv.org/abs/2105.12043)] 
 - Boosting Crowd Counting with Transformers [[paper](https://arxiv.org/abs/2105.10926)] 
 - COTR: Convolution in Transformer Network for End to End Polyp Detection [[paper](https://arxiv.org/abs/2105.10925)]
