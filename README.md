@@ -21,6 +21,8 @@ If you find some overlooked papers, please open issues or pull requests.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
 
 ### arXiv papers
+- CogView: Mastering Text-to-Image Generation via Transformers [[paper](https://arxiv.org/abs/2105.13290)]
+- KVT: k-NN Attention for Boosting Vision Transformers [[paper](https://www.researchgate.net/publication/351905425_KVT_k-NN_Attention_for_Boosting_Vision_Transformers)]
 - **[NesT]** Aggregating Nested Transformers [[paper](https://arxiv.org/abs/2105.12723)] 
 - **[TAPG]** Temporal Action Proposal Generation with Transformers [[paper](https://arxiv.org/abs/2105.12043)] 
 - Boosting Crowd Counting with Transformers [[paper](https://arxiv.org/abs/2105.10926)] 
