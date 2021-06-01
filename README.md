@@ -21,6 +21,7 @@ If you find some overlooked papers, please open issues or pull requests.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
 
 ### arXiv papers
+- **[MSG-Transformer]** MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens [paper](https://arxiv.org/abs/2105.15168) [[code](https://github.com/hustvl/MSG-Transformer)]
 - **[SegFormer]** SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers [paper](https://arxiv.org/abs/2105.15203) [[code](https://github.com/NVlabs/SegFormer)]
 - **[SDNet]** SDNet: mutil-branch for single image deraining using swin [[paper](https://arxiv.org/abs/2105.15077)] [[code](https://github.com/H-tfx/SDNet)]
 - **[DVT]** Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length [[paper](https://arxiv.org/abs/2105.15075)]
