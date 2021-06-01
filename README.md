@@ -21,6 +21,18 @@ If you find some overlooked papers, please open issues or pull requests.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
 
 ### arXiv papers
+- **[SegFormer]** SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers [paper](https://arxiv.org/abs/2105.15203) [[code](https://github.com/NVlabs/SegFormer)]
+- **[SDNet]** SDNet: mutil-branch for single image deraining using swin [[paper](https://arxiv.org/abs/2105.15077)] [[code](https://github.com/H-tfx/SDNet)]
+- **[DVT]** Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length [[paper](https://arxiv.org/abs/2105.15075)]
+- Dual-stream Network for Visual Recognition [[paper](https://arxiv.org/abs/2105.14734)]
+- Gaze Estimation using Transformer [[paper](https://arxiv.org/abs/2105.14424)] [[code](https://github.com/yihuacheng/GazeTR)]
+- Transformer-Based Deep Image Matching for Generalizable Person Re-identification [[paper](https://arxiv.org/abs/2105.14432)]
+- Less is More: Pay Less Attention in Vision Transformers [[paper](https://arxiv.org/abs/2105.14217)] 
+- FoveaTer: Foveated Transformer for Image Classification [[paper](https://arxiv.org/abs/2105.14173)]
+- Transformer-Based Source-Free Domain Adaptation [[paper](https://arxiv.org/abs/2105.14138)] [[code](https://github.com/ygjwd12345/TransDA)]
+- An Attention Free Transformer [[paper](https://arxiv.org/abs/2105.14103)]
+- **[PTNet]** PTNet: A High-Resolution Infant MRI Synthesizer Based on Transformer [[paper](https://arxiv.org/abs/2105.13993)]
+- ResT: An Efficient Transformer for Visual Recognition [[paper](https://arxiv.org/abs/2105.13677)] [[code](https://github.com/wofmanaf/ResT)]
 - CogView: Mastering Text-to-Image Generation via Transformers [[paper](https://arxiv.org/abs/2105.13290)]
 - KVT: k-NN Attention for Boosting Vision Transformers [[paper](https://www.researchgate.net/publication/351905425_KVT_k-NN_Attention_for_Boosting_Vision_Transformers)]
 - **[NesT]** Aggregating Nested Transformers [[paper](https://arxiv.org/abs/2105.12723)] 
