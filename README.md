@@ -21,6 +21,9 @@ If you find some overlooked papers, please open issues or pull requests.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
 
 ### arXiv papers
+- **[YOLOS]** You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection [[paper](https://arxiv.org/abs/2106.00666)] [[code](https://github.com/hustvl/YOLOS)]
+- **[TransVOS]**  TransVOS: Video Object Segmentation with Transformers [[paper](https://arxiv.org/abs/2106.00588)]
+- KVT: k-NN Attention for Boosting Vision Transformers [[paper](https://arxiv.org/abs/2106.00515)] 
 - **[MSG-Transformer]** MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens [[paper](https://arxiv.org/abs/2105.15168)] [[code](https://github.com/hustvl/MSG-Transformer)]
 - **[SegFormer]** SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers [[paper](https://arxiv.org/abs/2105.15203)] [[code](https://github.com/NVlabs/SegFormer)]
 - **[SDNet]** SDNet: mutil-branch for single image deraining using swin [[paper](https://arxiv.org/abs/2105.15077)] [[code](https://github.com/H-tfx/SDNet)]
