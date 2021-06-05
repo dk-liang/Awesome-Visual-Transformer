@@ -21,6 +21,12 @@ If you find some overlooked papers, please open issues or pull requests.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
 
 ### arXiv papers
+- Anticipative Video Transformer [[paper](https://arxiv.org/abs/2106.02036)] [[code](http://facebookresearch.github.io/AVT)]
+- DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification [[paper](https://arxiv.org/abs/2106.02034)] [[code](https://dynamicvit.ivg-research.xyz/)]
+- When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations [[paper](https://arxiv.org/abs/2106.01548)] [[code]()]
+- Container: Context Aggregation Network [[paper](https://arxiv.org/abs/2106.01401)]
+- Unsupervised Out-of-Domain Detection via Pre-trained Transformers [[paper](https://arxiv.org/abs/2106.00948)]
+- TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classication [[paper](https://arxiv.org/abs/2106.00908)]
 - **[YOLOS]** You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection [[paper](https://arxiv.org/abs/2106.00666)] [[code](https://github.com/hustvl/YOLOS)]
 - **[TransVOS]**  TransVOS: Video Object Segmentation with Transformers [[paper](https://arxiv.org/abs/2106.00588)]
 - **[KVT]** KVT: k-NN Attention for Boosting Vision Transformers [[paper](https://arxiv.org/abs/2106.00515)] 
