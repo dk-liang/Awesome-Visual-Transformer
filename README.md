@@ -21,6 +21,23 @@ If you find some overlooked papers, please open issues or pull requests.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
 
 ### arXiv papers
+- Visual Transformer for Task-aware Active Learning [[paper](https://arxiv.org/abs/2106.03801)] [[code](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)]
+- Efficient Training of Visual Transformers with Small-Size Datasets [[paper](https://arxiv.org/abs/2106.03746)] 
+- Reveal of Vision Transformers Robustness against Adversarial Attacks [[paper](https://arxiv.org/abs/2106.03734)]
+- Person Re-Identification with a Locally Aware Transformer [[paper](https://arxiv.org/abs/2106.03720)]
+- Refiner: Refining Self-attention for Vision Transformers [[paper](https://arxiv.org/abs/2106.03714)]
+- Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer [[paper](https://arxiv.org/abs/2106.03650)]
+- ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias [[paper](https://arxiv.org/abs/2106.03348)]
+- Video Instance Segmentation using Inter-Frame Communication Transformers [[paper](https://arxiv.org/abs/2106.03299)]
+- Transformer in Convolutional Neural Networks [[paper](https://arxiv.org/abs/2106.03180)] [[code](https://github.com/yun-liu/TransCNN)]
+- Oriented Object Detection with Transformer [[paper](https://arxiv.org/abs/2106.03146)]
+- Uformer: A General U-Shaped Transformer for Image Restoration [[paper](https://arxiv.org/abs/2106.03106)] [[code](https://github.com/ZhendongWang6/Uformer)]
+- Patch Slimming for Efficient Vision Transformers [[paper](https://arxiv.org/abs/2106.02852)]
+- RegionViT: Regional-to-Local Attention for Vision Transformers [[paper](https://arxiv.org/abs/2106.02689]
+- Associating Objects with Transformers for Video Object Segmentation [[paper](https://arxiv.org/abs/2106.02638)] [[code](https://github.com/z-x-yang/AOT)]
+- Few-Shot Segmentation via Cycle-Consistent Transformer [[paper](https://arxiv.org/abs/2106.02320)]
+- Glance-and-Gaze Vision Transformer [[paper](https://arxiv.org/abs/2106.02277)] [[code]( https://github.com/yucornetto/GG-Transformer)]
+- Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers [[paper](https://arxiv.org/pdf/2105.08059.pdf)]
 - Anticipative Video Transformer [[paper](https://arxiv.org/abs/2106.02036)] [[code](http://facebookresearch.github.io/AVT)]
 - DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification [[paper](https://arxiv.org/abs/2106.02034)] [[code](https://dynamicvit.ivg-research.xyz/)]
 - When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations [[paper](https://arxiv.org/abs/2106.01548)] [[code]()]
