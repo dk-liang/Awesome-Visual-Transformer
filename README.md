@@ -33,7 +33,7 @@ If you find some overlooked papers, please open issues or pull requests.
 - Oriented Object Detection with Transformer [[paper](https://arxiv.org/abs/2106.03146)]
 - Uformer: A General U-Shaped Transformer for Image Restoration [[paper](https://arxiv.org/abs/2106.03106)] [[code](https://github.com/ZhendongWang6/Uformer)]
 - Patch Slimming for Efficient Vision Transformers [[paper](https://arxiv.org/abs/2106.02852)]
-- RegionViT: Regional-to-Local Attention for Vision Transformers [[paper](https://arxiv.org/abs/2106.02689]
+- RegionViT: Regional-to-Local Attention for Vision Transformers [[paper](https://arxiv.org/abs/2106.02689)]
 - Associating Objects with Transformers for Video Object Segmentation [[paper](https://arxiv.org/abs/2106.02638)] [[code](https://github.com/z-x-yang/AOT)]
 - Few-Shot Segmentation via Cycle-Consistent Transformer [[paper](https://arxiv.org/abs/2106.02320)]
 - Glance-and-Gaze Vision Transformer [[paper](https://arxiv.org/abs/2106.02277)] [[code]( https://github.com/yucornetto/GG-Transformer)]
