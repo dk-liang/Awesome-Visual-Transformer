@@ -19,8 +19,15 @@ If you find some overlooked papers, please open issues or pull requests.
 ### Survey
   - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.02.22
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
-
+  - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- Scaling Vision Transformers[[paper](https://arxiv.org/abs/2106.04560)]
+- DETReg: Unsupervised Pretraining with Region Priors for Object Detection [[paper](https://arxiv.org/abs/2106.04550)] [[code](https://amirbar.net/detreg)]
+- Chasing Sparsity in Vision Transformers:An End-to-End Exploration [[paper](https://arxiv.org/abs/2106.04533)]
+- MViT: Mask Vision Transformer for Facial Expression Recognition in the wild [[paper](https://arxiv.org/abs/2106.04520)]
+- Demystifying Local Vision Transformer: Sparse Connectivity, Weight Sharing, and Dynamic Weight [[paper](https://arxiv.org/abs/2106.04263)]
+- On Improving Adversarial Transferability of Vision Transformers [[paper](https://arxiv.org/abs/2106.04169)]
+- Fully Transformer Networks for Semantic ImageSegmentation [[paper](https://arxiv.org/abs/2106.04108)]
 - Visual Transformer for Task-aware Active Learning [[paper](https://arxiv.org/abs/2106.03801)] [[code](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)]
 - Efficient Training of Visual Transformers with Small-Size Datasets [[paper](https://arxiv.org/abs/2106.03746)] 
 - Reveal of Vision Transformers Robustness against Adversarial Attacks [[paper](https://arxiv.org/abs/2106.03734)]
@@ -231,6 +238,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization (**ISIE**) [[paper](https://arxiv.org/abs/2104.10036)]
 - Medical Image Segmentation using Squeeze-and-Expansion Transformers  (**IJCAI**) [[paper](https://arxiv.org/abs/2105.09511)]
 - Vision Transformer for Fast and Efficient Scene Text Recognition (**ICDAR**) [[paper](https://arxiv.org/abs/2105.08582)]
+- Diverse Part Discovery: Occluded Person Re-identification with Part-Aware Transformer (**CVPR**) [[paper](https://arxiv.org/abs/2106.04095)]
 - **[HOTR]** HOTR: End-to-End Human-Object Interaction Detection with Transformers (**CVPR oral**) [[paper](https://arxiv.org/abs/2104.13682)] 
 - High-Resolution Complex Scene Synthesis with Transformers (**CVPRW**) [[paper](https://arxiv.org/abs/2105.06458)]
 - **[TransFuser]** Multi-Modal Fusion Transformer for End-to-End Autonomous Driving (**CVPR**) [[paper](https://arxiv.org/abs/2104.09224)] [[code](https://github.com/autonomousvision/transfuser)]
