@@ -21,7 +21,10 @@ If you find some overlooked papers, please open issues or pull requests.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
-- Scaling Vision Transformers[[paper](https://arxiv.org/abs/2106.04560)]
+- Space-time Mixing Attention for Video Transformer [[paper](https://arxiv.org/abs/2106.05968)]
+- Transformed CNNs: recasting pre-trained convolutional layers with self-attention [[paper](https://arxiv.org/abs/2106.05795)]
+- CAT: Cross Attention in Vision Transformer [[paper](https://arxiv.org/abs/2106.05786)]
+- Scaling Vision Transformers [[paper](https://arxiv.org/abs/2106.04560)]
 - DETReg: Unsupervised Pretraining with Region Priors for Object Detection [[paper](https://arxiv.org/abs/2106.04550)] [[code](https://amirbar.net/detreg)]
 - Chasing Sparsity in Vision Transformers:An End-to-End Exploration [[paper](https://arxiv.org/abs/2106.04533)]
 - MViT: Mask Vision Transformer for Facial Expression Recognition in the wild [[paper](https://arxiv.org/abs/2106.04520)]
