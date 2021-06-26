@@ -21,6 +21,16 @@ If you find some overlooked papers, please open issues or pull requests.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- XCiT: Cross-Covariance Image Transformers [[paper](https://arxiv.org/pdf/2106.09681.pdf)] [[code](https://github.com/facebookresearch/xcit)]
+- Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer [[paper](https://arxiv.org/abs/2106.03650)] [[code](https://github.com/mulinmeng/Shuffle-Transformer)]
+- Video Swin Transformer [[paper](https://arxiv.org/abs/2106.13230)] [[code](https://github.com/SwinTransformer/Video-Swin-Transformer)]
+- VOLO: Vision Outlooker for Visual Recognition [[paper](https://arxiv.org/abs/2106.13112)] [[code](https://github.com/sail-sg/volo)]
+- Transformer Meets Convolution: A Bilateral Awareness Net-work for Semantic Segmentation of Very Fine Resolution Ur-ban Scene Images [[paper](https://arxiv.org/abs/2106.12413)] 
+- P2T: Pyramid Pooling Transformer for Scene Understanding [[paper](https://arxiv.org/abs/2106.12011)]
+- DocFormer: End-to-End Transformer for Document Understanding [[paper](https://arxiv.org/abs/2106.11539)]
+- End-to-end Temporal Action Detection with Transformer [[paper](https://arxiv.org/abs/2106.10271)] [[code](https://github.com/xlliu7/TadTR)]
+- How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers [[paper](https://arxiv.org/abs/2106.10270)]
+- Efficient Self-supervised Vision Transformers for Representation Learning [[paper](https://arxiv.org/abs/2106.09785)]
 - Space-time Mixing Attention for Video Transformer [[paper](https://arxiv.org/abs/2106.05968)]
 - Transformed CNNs: recasting pre-trained convolutional layers with self-attention [[paper](https://arxiv.org/abs/2106.05795)]
 - CAT: Cross Attention in Vision Transformer [[paper](https://arxiv.org/abs/2106.05786)]
