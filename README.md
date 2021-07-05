@@ -21,6 +21,7 @@ If you find some overlooked papers, please open issues or pull requests.
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- **[AutoFormer]** AutoFormer: Searching Transformers for Visual Recognition [[paper](https://arxiv.org/pdf/2107.00651.pdf)] [[code](https://github.com/microsoft/AutoML)]
 - XCiT: Cross-Covariance Image Transformers [[paper](https://arxiv.org/pdf/2106.09681.pdf)] [[code](https://github.com/facebookresearch/xcit)]
 - Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer [[paper](https://arxiv.org/abs/2106.03650)] [[code](https://github.com/mulinmeng/Shuffle-Transformer)]
 - Video Swin Transformer [[paper](https://arxiv.org/abs/2106.13230)] [[code](https://github.com/SwinTransformer/Video-Swin-Transformer)]
