@@ -2,7 +2,7 @@
 
 Collect some Transformer with Computer-Vision (CV) papers. 
 
-If you find some overlooked papers, please open issues or pull requests.
+If you find some overlooked papers, please open issues or pull requests (recommended).
 
 
 ## Papers
@@ -22,6 +22,10 @@ If you find some overlooked papers, please open issues or pull requests.
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
 - **[AutoFormer]** AutoFormer: Searching Transformers for Visual Recognition [[paper](https://arxiv.org/pdf/2107.00651.pdf)] [[code](https://github.com/microsoft/AutoML)]
+- CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows [[paper](https://arxiv.org/abs/2107.00652)] [[code](https://github.com/microsoft/CSWin-Transformer)]
+- **[Trans4Trans]** Trans4Trans: Efficient Transformer for Transparent Object Segmentation to Help Visually Impaired People Navigate in the Real World [[paper](https://arxiv.org/abs/2107.03172)] 
+- **[FFVT]** Feature Fusion Vision Transformer for Fine-Grained Visual Categorization [[paper](https://arxiv.org/abs/2107.02341)] 
+- **[TransformerFusion]** TransformerFusion: Monocular RGB Scene Reconstruction using Transformers [[paper](https://arxiv.org/abs/2107.02191)]
 - Escaping the Big Data Paradigm with Compact Transformers [[paper](https://arxiv.org/pdf/2104.05704.pdf)]
 - How to train your ViT? Data, Augmentation,and Regularization in Vision Transformers [[paper](https://arxiv.org/pdf/2106.10270.pdf)]
 - Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks [[paper](https://arxiv.org/pdf/2105.02358.pdf)]
@@ -212,7 +216,6 @@ Object Detection for Autonomous Driving [[paper](https://arxiv.org/abs/2103.0315
 - **[PVT]** Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions [[paper](https://arxiv.org/abs/2102.12122)] [[code](https://github.com/whai362/PVT)]
 - Transformer is All You Need:
 Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.org/abs/2102.10772)] [[code](https://mmf.sh/)]
-- **[MedT]** Medical Transformer: Gated Axial-Attention for Medical Image Segmentation [[paper](https://arxiv.org/abs/2102.10662)] [[code](https://github.com/jeya-maria-jose/Medical-Transformer)]
 - **[CPVT]** Do We Really Need Explicit Position Encodings for Vision Transformers? [[paper](https://arxiv.org/abs/2102.10882)] [[code](https://github.com/Meituan-AutoML/CPVT)]
 - Deepfake Video Detection Using Convolutional Vision Transformer[[paper](https://arxiv.org/abs/2102.11126)]
 - Training Vision Transformers for Image Retrieval[[paper](https://arxiv.org/abs/2102.05644)]
@@ -251,6 +254,11 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 ### 2021
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
+- **[UTNet]** UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation (**MICCAI**) [[paper](https://arxiv.org/abs/2107.00781)] 
+- **[MedT]** Medical Transformer: Gated Axial-Attention for Medical Image Segmentation (**MICCAI**) [[paper](https://arxiv.org/abs/2102.10662)] [[code](https://github.com/jeya-maria-jose/Medical-Transformer)]
+- **[MCTrans]** Multi-Compound Transformer for Accurate Biomedical Image Segmentation (**MICCAI**) [[paper](https://arxiv.org/abs/2106.14385)]
+- **[PNS-Net]** Progressively Normalized Self-Attention Network for Video Polyp Segmentation (**MICCAI**) [[paper](https://arxiv.org/abs/2105.08468)] [[code](https://github.com/GewelsJI/PNS-Net)]
+- **[MBT-Net]** A Multi-Branch Hybrid Transformer Networkfor Corneal Endothelial Cell Segmentation [[paper](https://arxiv.org/abs/2106.07557)]
 - VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization (**ISIE**) [[paper](https://arxiv.org/abs/2104.10036)]
 - Medical Image Segmentation using Squeeze-and-Expansion Transformers  (**IJCAI**) [[paper](https://arxiv.org/abs/2105.09511)]
 - Vision Transformer for Fast and Efficient Scene Text Recognition (**ICDAR**) [[paper](https://arxiv.org/abs/2105.08582)]
