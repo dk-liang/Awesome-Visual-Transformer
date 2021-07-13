@@ -277,6 +277,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - Transformer Interpretability Beyond Attention Visualization (**CVPR**) [[paper](https://arxiv.org/abs/2012.09838)] [[code](https://github.com/hila-chefer/Transformer-Explainability)]
 - **[IPT]** Pre-Trained Image Processing Transformer (**CVPR**) [[paper](https://arxiv.org/abs/2012.00364)]
 - **[UP-DETR]** UP-DETR: Unsupervised Pre-training for Object Detection with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2011.09094)]
+- **[IQT]** Perceptual Image Quality Assessment with Transformers (**CVPRW**) [[paper](https://arxiv.org/abs/2104.14730)]
 - **[VTNet]** VTNet: Visual Transformer Network for Object Goal Navigation (**ICLR**)[[paper](https://arxiv.org/abs/2105.09447)]
 - **[Vision Transformer]** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (**ICLR**)[[paper](https://arxiv.org/abs/2010.11929)] [[code](https://github.com/google-research/vision_transformer)]
 - **[Deformable DETR]** Deformable DETR: Deformable Transformers for End-to-End Object Detection (**ICLR**)[[paper](https://arxiv.org/abs/2010.04159)] [[code](https://github.com/fundamentalvision/Deformable-DETR)]
