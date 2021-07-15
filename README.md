@@ -21,6 +21,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- **[Styleformer]** Styleformer: Transformer based Generative Adversarial Networks with Style Vector [[paper](https://arxiv.org/abs/2106.07023)] [[code](https://github.com/Jeeseung-Park/Styleformer)]
 - **[CMT]** CMT: Convolutional Neural Networks Meet Vision Transformers [[paper](https://arxiv.org/abs/2107.06263)]
 - **[TransAttUnet]** TransAttUnet: Multi-level Attention-guided U-Net with Transformer for Medical Image Segmentation [[paper](https://arxiv.org/abs/2107.05274)]
 - TransClaw U-Net: Claw U-Net with Transformers for Medical Image Segmentation [[paper](https://arxiv.org/abs/2107.05188)]
