@@ -27,7 +27,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - TransClaw U-Net: Claw U-Net with Transformers for Medical Image Segmentation [[paper](https://arxiv.org/abs/2107.05188)]
 - **[ViTGAN]** ViTGAN: Training GANs with Vision Transformers [[paper](https://arxiv.org/abs/2107.04589)]
 - What Makes for Hierarchical Vision Transformer? [[paper](https://arxiv.org/abs/2107.02174)]
-- **[AutoFormer]** AutoFormer: Searching Transformers for Visual Recognition [[paper](https://arxiv.org/pdf/2107.00651.pdf)] [[code](https://github.com/microsoft/AutoML)]
 - CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows [[paper](https://arxiv.org/abs/2107.00652)] [[code](https://github.com/microsoft/CSWin-Transformer)]
 - **[Trans4Trans]** Trans4Trans: Efficient Transformer for Transparent Object Segmentation to Help Visually Impaired People Navigate in the Real World [[paper](https://arxiv.org/abs/2107.03172)] 
 - **[FFVT]** Feature Fusion Vision Transformer for Fine-Grained Visual Categorization [[paper](https://arxiv.org/abs/2107.02341)] 
@@ -259,6 +258,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper](https://arxiv.org/abs/2006.03677)]
 
 ### 2021
+- **[AutoFormer]** AutoFormer: Searching Transformers for Visual Recognition (**ICCV**)[[paper](https://arxiv.org/pdf/2107.00651.pdf)] [[code](https://github.com/microsoft/AutoML)]
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
 - **[HAT]** HAT: Hierarchical Aggregation Transformers for Person Re-identification (**ACM MM**) [[paper](https://arxiv.org/abs/2107.05946)]
 - **[UTNet]** UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation (**MICCAI**) [[paper](https://arxiv.org/abs/2107.00781)] 
