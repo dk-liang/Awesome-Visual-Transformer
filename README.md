@@ -231,7 +231,6 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[CPTR]** CPTR: Full Transformer Network for Image Captioning [[paper](https://arxiv.org/abs/2101.10804)]
 - Learn to Dance with AIST++: Music Conditioned 3D Dance Generation [[paper](https://arxiv.org/abs/2101.08779)] [[code](https://google.github.io/aichoreographer/)]
 - **[Trans2Seg]**  Segmenting Transparent Object in the Wild with Transformer [[paper](https://arxiv.org/abs/2101.08461)] [[code](https://github.com/xieenze/Trans2Seg)]
-- **[SMCA]**  Fast Convergence of DETR with Spatially Modulated Co-Attention [[paper](https://arxiv.org/abs/2101.07448)]
 - Investigating the Vision Transformer Model for Image Retrieval Tasks [[paper](https://arxiv.org/abs/2101.03771)]
 - **[Trear]** Trear: Transformer-based RGB-D Egocentric Action Recognition [[paper](https://arxiv.org/abs/2101.03904)]
 - **[VisualSparta]** VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search [[paper](https://arxiv.org/abs/2101.00265)]
@@ -258,6 +257,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper](https://arxiv.org/abs/2006.03677)]
 
 ### 2021
+- **[SMCA]**  Fast Convergence of DETR with Spatially Modulated Co-Attention (**ICCV**)[[paper](https://arxiv.org/abs/2101.07448)] [[code](https://github.com/abc403/SMCA-replication)]
 - **[AutoFormer]** AutoFormer: Searching Transformers for Visual Recognition (**ICCV**)[[paper](https://arxiv.org/pdf/2107.00651.pdf)] [[code](https://github.com/microsoft/AutoML)]
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
 - **[HAT]** HAT: Hierarchical Aggregation Transformers for Person Re-identification (**ACM MM**) [[paper](https://arxiv.org/abs/2107.05946)]
