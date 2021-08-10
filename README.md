@@ -229,7 +229,6 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[CPVT]** Do We Really Need Explicit Position Encodings for Vision Transformers? [[paper](https://arxiv.org/abs/2102.10882)] [[code](https://github.com/Meituan-AutoML/CPVT)]
 - Deepfake Video Detection Using Convolutional Vision Transformer[[paper](https://arxiv.org/abs/2102.11126)]
 - Training Vision Transformers for Image Retrieval[[paper](https://arxiv.org/abs/2102.05644)]
-- **[TransReID]** TransReID: Transformer-based Object Re-Identification[[paper](https://arxiv.org/abs/2102.04378)]
 - **[VTN]** Video Transformer Network[[paper](https://arxiv.org/abs/2102.00719)]
 - **[T2T-ViT]** Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [[paper](https://arxiv.org/abs/2101.11986)] [[code](https://github.com/yitu-opensource/T2T-ViT)]
 - **[BoTNet]** Bottleneck Transformers for Visual Recognition [[paper](https://arxiv.org/abs/2101.11605)]
@@ -262,6 +261,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper](https://arxiv.org/abs/2006.03677)]
 
 ### 2021
+- **[TransReID]** TransReID: Transformer-based Object Re-Identification (**ICCV**) [[paper](https://arxiv.org/abs/2102.04378)][[code](https://github.com/heshuting555/TransReID)]
 - Rethinking and Improving Relative Position Encoding for Vision Transformer (**ICCV**) [[paper](https://arxiv.org/abs/2107.14222)] [[code](https://github.com/microsoft/Cream/tree/main/iRPE)]
 - Vision Transformer with Progressive Sampling (**ICCV**) [[paper](https://arxiv.org/abs/2108.01684)] [[code](https://github.com/yuexy/PS-ViT)]
 - Paint Transformer: Feed Forward Neural Painting with Stroke Prediction (**ICCV**)[[paper](https://arxiv.org/abs/2108.03798]) [[code](https://github.com/Huage001/PaintTransformer)]
