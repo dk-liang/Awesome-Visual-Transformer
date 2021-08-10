@@ -21,6 +21,11 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- **[TriTransNet]** TriTransNet: RGB-D Salient Object Detection with a Triplet Transformer Embedding Network [[paper](https://arxiv.org/abs/2108.03798)]
+- **[PSViT]** PSViT: Better Vision Transformer via Token Pooling and Attention Sharing [[paper](https://arxiv.org/abs/2108.03428)]
+- Boosting Few-shot Semantic Segmentation with Transformers [[paper](https://arxiv.org/abs/2108.02266)] [[code](https://github.com/GuoleiSun/TRFS)]
+- Congested Crowd Instance Localization with Dilated Convolutional Swin Transformer [[paper](https://arxiv.org/abs/2108.00584)]
+- **[CrossFormer]** CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention [[paper](https://arxiv.org/abs/2108.00154)] [[code](https://github.com/cheerss/CrossFormer)]
 - **[Styleformer]** Styleformer: Transformer based Generative Adversarial Networks with Style Vector [[paper](https://arxiv.org/abs/2106.07023)] [[code](https://github.com/Jeeseung-Park/Styleformer)]
 - **[CMT]** CMT: Convolutional Neural Networks Meet Vision Transformers [[paper](https://arxiv.org/abs/2107.06263)]
 - **[TransAttUnet]** TransAttUnet: Multi-level Attention-guided U-Net with Transformer for Medical Image Segmentation [[paper](https://arxiv.org/abs/2107.05274)]
@@ -257,10 +262,16 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper](https://arxiv.org/abs/2006.03677)]
 
 ### 2021
+- Rethinking and Improving Relative Position Encoding for Vision Transformer (**ICCV**) [[paper](https://arxiv.org/abs/2107.14222)] [[code](https://github.com/microsoft/Cream/tree/main/iRPE)]
+- Vision Transformer with Progressive Sampling (**ICCV**) [[paper](https://arxiv.org/abs/2108.01684)] [[code](https://github.com/yuexy/PS-ViT)]
+- Paint Transformer: Feed Forward Neural Painting with Stroke Prediction (**ICCV**)[[paper](https://arxiv.org/abs/2108.03798]) [[code](https://github.com/Huage001/PaintTransformer)]
 - **[SMCA]**  Fast Convergence of DETR with Spatially Modulated Co-Attention (**ICCV**)[[paper](https://arxiv.org/abs/2101.07448)] [[code](https://github.com/abc403/SMCA-replication)]
 - **[AutoFormer]** AutoFormer: Searching Transformers for Visual Recognition (**ICCV**)[[paper](https://arxiv.org/pdf/2107.00651.pdf)] [[code](https://github.com/microsoft/AutoML)]
+- Generative Video Transformer: Can Objects be the Words? (**ICML**) [paper](https://arxiv.org/abs/2107.09240)
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
 - **[HAT]** HAT: Hierarchical Aggregation Transformers for Person Re-identification (**ACM MM**) [[paper](https://arxiv.org/abs/2107.05946)]
+- Token Shift Transformer for Video Classification (**ACM MM**) [paper](https://arxiv.org/abs/2108.02432)
+- DPT: Deformable Patch-based Transformer for Visual Recognition (**ACM MM**) [[paper](https://arxiv.org/abs/2107.14467)] [[code](https://github.com/CASIA-IVA-Lab/DPT)]
 - **[UTNet]** UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation (**MICCAI**) [[paper](https://arxiv.org/abs/2107.00781)] 
 - **[MedT]** Medical Transformer: Gated Axial-Attention for Medical Image Segmentation (**MICCAI**) [[paper](https://arxiv.org/abs/2102.10662)] [[code](https://github.com/jeya-maria-jose/Medical-Transformer)]
 - **[MCTrans]** Multi-Compound Transformer for Accurate Biomedical Image Segmentation (**MICCAI**) [[paper](https://arxiv.org/abs/2106.14385)]
