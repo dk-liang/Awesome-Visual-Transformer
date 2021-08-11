@@ -259,6 +259,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper](https://arxiv.org/abs/2006.03677)]
 
 ### 2021
+- **[SnowflakeNet]** SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer (**ICCV**) [[paper](https://arxiv.org/abs/2108.04444)] [[code](https://github.com/AllenXiangX/SnowflakeNet.)]
 - **[TransPose]** TransPose: Keypoint Localization via Transformer (**ICCV**) [[paper](https://arxiv.org/abs/2012.14214)] [[code](https://github.com/yangsenius/TransPose)]
 - **[TransReID]** TransReID: Transformer-based Object Re-Identification (**ICCV**) [[paper](https://arxiv.org/abs/2102.04378)] [[code](https://github.com/heshuting555/TransReID)]
 - **[CWT]** Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer [[paper](https://arxiv.org/abs/2108.03032)] [[code](https://github.com/zhiheLu/CWT-for-FSS)]
