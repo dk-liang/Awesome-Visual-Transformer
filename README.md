@@ -270,6 +270,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[AutoFormer]** AutoFormer: Searching Transformers for Visual Recognition (**ICCV**) [[paper](https://arxiv.org/pdf/2107.00651.pdf)] [[code](https://github.com/microsoft/AutoML)]
 - Generative Video Transformer: Can Objects be the Words? (**ICML**) [[paper](https://arxiv.org/abs/2107.09240)]
 - **[NDT-Transformer]** NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation (**ICRA**)[[paper](https://arxiv.org/abs/2103.12292)] 
+- Video Transformer for Deepfake Detection with Incremental Learning(**ACM MM**) [[paper](https://arxiv.org/abs/2108.05307)] 
 - **[HAT]** HAT: Hierarchical Aggregation Transformers for Person Re-identification (**ACM MM**) [[paper](https://arxiv.org/abs/2107.05946)]
 - Token Shift Transformer for Video Classification (**ACM MM**) [[paper](https://arxiv.org/abs/2108.02432)] [[code](https://github.com/VideoNetworks/TokShift-Transformer)]
 - **[DPT]** DPT: Deformable Patch-based Transformer for Visual Recognition (**ACM MM**) [[paper](https://arxiv.org/abs/2107.14467)] [[code](https://github.com/CASIA-IVA-Lab/DPT)]
