@@ -21,6 +21,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers [[paper](https://arxiv.org/abs/2108.06932)] [[code](https://github.com/DengPingFan/Polyp-PVT)]
+- Mobile-Former: Bridging MobileNet and Transformer [[paper](https://arxiv.org/abs/2108.05895)]
 - **[TriTransNet]** TriTransNet: RGB-D Salient Object Detection with a Triplet Transformer Embedding Network [[paper](https://arxiv.org/abs/2108.03798)]
 - **[PSViT]** PSViT: Better Vision Transformer via Token Pooling and Attention Sharing [[paper](https://arxiv.org/abs/2108.03428)]
 - Boosting Few-shot Semantic Segmentation with Transformers [[paper](https://arxiv.org/abs/2108.02266)] [[code](https://github.com/GuoleiSun/TRFS)]
@@ -259,6 +261,8 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper](https://arxiv.org/abs/2006.03677)]
 
 ### 2021
+- **[PIT]** PIT: Position-Invariant Transform for Cross-FoV Domain Adaptation (**ICCV**) [[paper](https://arxiv.org/abs/2108.07142)] [[code](https://github.com/sheepooo/PIT-Position-Invariant-Transform)]
+- **[SOTR]** SOTR: Segmenting Objects with Transformers (**ICCV**) [[paper](https://arxiv.org/abs/2108.06747)] [[code](https://github.com/easton-cau/SOTR)]
 - **[SnowflakeNet]** SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer (**ICCV**) [[paper](https://arxiv.org/abs/2108.04444)] [[code](https://github.com/AllenXiangX/SnowflakeNet.)]
 - **[TransPose]** TransPose: Keypoint Localization via Transformer (**ICCV**) [[paper](https://arxiv.org/abs/2012.14214)] [[code](https://github.com/yangsenius/TransPose)]
 - **[TransReID]** TransReID: Transformer-based Object Re-Identification (**ICCV**) [[paper](https://arxiv.org/abs/2102.04378)] [[code](https://github.com/heshuting555/TransReID)]
@@ -300,6 +304,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - High-Resolution Complex Scene Synthesis with Transformers (**CVPRW**) [[paper](https://arxiv.org/abs/2105.06458)]
 - **[YOGO]** You Only Group Once: Efficient Point-Cloud Processing with Token
 Representation and Relation Inference Module (**IROS**)  [[paper](https://arxiv.org/abs/2103.09975)] [[code](https://github.com/chenfengxu714/YOGO.git)]
+- **[PTT]** PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds (**IROS**)  [[paper](https://arxiv.org/abs/2108.06455)] [[code](https://github.com/shanjiayao/PTT)]
 - **[VTNet]** VTNet: Visual Transformer Network for Object Goal Navigation (**ICLR**) [[paper](https://arxiv.org/abs/2105.09447)]
 - **[Vision Transformer]** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (**ICLR**) [[paper](https://arxiv.org/abs/2010.11929)] [[code](https://github.com/google-research/vision_transformer)]
 - **[Deformable DETR]** Deformable DETR: Deformable Transformers for End-to-End Object Detection (**ICLR**) [[paper](https://arxiv.org/abs/2010.04159)] [[code](https://github.com/fundamentalvision/Deformable-DETR)]
