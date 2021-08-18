@@ -261,6 +261,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper](https://arxiv.org/abs/2006.03677)]
 
 ### 2021
+- **[Conditional DETR]** Conditional DETR for Fast Training Convergence (**ICCV**) [[paper](https://arxiv.org/abs/2108.06152)] [[code](https://github.com/Atten4Vis/ConditionalDETR)]
 - **[PIT]** PIT: Position-Invariant Transform for Cross-FoV Domain Adaptation (**ICCV**) [[paper](https://arxiv.org/abs/2108.07142)] [[code](https://github.com/sheepooo/PIT-Position-Invariant-Transform)]
 - **[SOTR]** SOTR: Segmenting Objects with Transformers (**ICCV**) [[paper](https://arxiv.org/abs/2108.06747)] [[code](https://github.com/easton-cau/SOTR)]
 - **[SnowflakeNet]** SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer (**ICCV**) [[paper](https://arxiv.org/abs/2108.04444)] [[code](https://github.com/AllenXiangX/SnowflakeNet.)]
