@@ -21,6 +21,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- Focal Self-attention for Local-Global Interactions in Vision Transformers [[paper](https://arxiv.org/abs/2107.00641)] [[code](https://github.com/microsoft/Focal-Transformer)]
 - Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers [[paper](https://arxiv.org/abs/2108.06932)] [[code](https://github.com/DengPingFan/Polyp-PVT)]
 - Mobile-Former: Bridging MobileNet and Transformer [[paper](https://arxiv.org/abs/2108.05895)]
 - **[TriTransNet]** TriTransNet: RGB-D Salient Object Detection with a Triplet Transformer Embedding Network [[paper](https://arxiv.org/abs/2108.03798)]
