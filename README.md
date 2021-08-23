@@ -21,6 +21,10 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- **[Trans4Trans]** Trans4Trans: Efficient Transformer for Transparent Object and Semantic Scene Segmentation in Real-World Navigation Assistance [[paper](https://arxiv.org/abs/2108.09174)]
+- Do Vision Transformers See Like Convolutional Neural Networks? [[paper](https://arxiv.org/abs/2108.08810)]
+- Boosting Salient Object Detection with Transformer-based Asymmetric Bilateral U-Net [[paper](https://arxiv.org/abs/2108.07851)]
+- Light Field Image Super-Resolution with Transformers [[paper](https://arxiv.org/abs/2108.07597)] [[code](https://github.com/ZhengyuLiang24/LFT)]
 - Focal Self-attention for Local-Global Interactions in Vision Transformers [[paper](https://arxiv.org/abs/2107.00641)] [[code](https://github.com/microsoft/Focal-Transformer)]
 - Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers [[paper](https://arxiv.org/abs/2108.06932)] [[code](https://github.com/DengPingFan/Polyp-PVT)]
 - Mobile-Former: Bridging MobileNet and Transformer [[paper](https://arxiv.org/abs/2108.05895)]
@@ -262,6 +266,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper](https://arxiv.org/abs/2006.03677)]
 
 ### 2021
+- PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers  (**ICCV oral**) [[paper](https://arxiv.org/abs/2108.08839)] [[code](https://github.com/yuxumin/PoinTr)]
 - **[Conditional DETR]** Conditional DETR for Fast Training Convergence (**ICCV**) [[paper](https://arxiv.org/abs/2108.06152)] [[code](https://github.com/Atten4Vis/ConditionalDETR)]
 - **[PIT]** PIT: Position-Invariant Transform for Cross-FoV Domain Adaptation (**ICCV**) [[paper](https://arxiv.org/abs/2108.07142)] [[code](https://github.com/sheepooo/PIT-Position-Invariant-Transform)]
 - **[SOTR]** SOTR: Segmenting Objects with Transformers (**ICCV**) [[paper](https://arxiv.org/abs/2108.06747)] [[code](https://github.com/easton-cau/SOTR)]
