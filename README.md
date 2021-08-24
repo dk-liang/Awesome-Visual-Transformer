@@ -21,6 +21,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- **[SwinIR]** SwinIR: Image Restoration Using Swin Transformer [[paper](https://arxiv.org/abs/2108.10257)] [[code](https://github.com/JingyunLiang/SwinIR)]
 - **[Trans4Trans]** Trans4Trans: Efficient Transformer for Transparent Object and Semantic Scene Segmentation in Real-World Navigation Assistance [[paper](https://arxiv.org/abs/2108.09174)]
 - Do Vision Transformers See Like Convolutional Neural Networks? [[paper](https://arxiv.org/abs/2108.08810)]
 - Boosting Salient Object Detection with Transformer-based Asymmetric Bilateral U-Net [[paper](https://arxiv.org/abs/2108.07851)]
