@@ -261,8 +261,9 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[STTR]** Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2011.02910v2)] [[code](https://github.com/mli0603/stereo-transformer)]
 
 ### 2021
+- **[CT3D]** Improving 3D Object Detection with Channel-wise Transformer  (**ICCV**)  [[paper](https://arxiv.org/abs/2108.10723)]
 - **[PiT]** Rethinking Spatial Dimensions of Vision Transformers (**ICCV**) [[paper](https://arxiv.org/abs/2103.16302)] [[code](https://github.com/naver-ai/pit)]
-- **[CrossViT]** CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification  (**ICCV**) [[paper](https://arxiv.org/abs/2103.14899)] [[code](https://github.com/rishikksh20/CrossViT-pytorch)]
+- **[CrossViT]** CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification  (**ICCV**) [[paper](https://arxiv.org/abs/2103.14899)] [[code](https://github.com/IBM/CrossViT)]
 - **[TS-CAM]** TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization (**ICCV**)  [[paper](https://arxiv.org/abs/2103.14862)] [[code](https://github.com/vasgaowei/TS-CAM.git)]
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision (**ICCV**) [[paper](https://arxiv.org/abs/2006.03677)]
 - **[TransDepth]** Transformer-Based Attention Networks for Continuous Pixel-Wise Prediction (**ICCV**)  [[paper](https://arxiv.org/pdf/2103.12091.pdf)] [[code](https://github.com/ygjwd12345/TransDepth)]
