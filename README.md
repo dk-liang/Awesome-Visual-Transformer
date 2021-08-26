@@ -21,6 +21,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- **[ESRT]** Efficient Transformer for Single Image Super-Resolution [[paper](https://arxiv.org/abs/2108.11084)]
 - **[MaskFormer]** MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation [[paper](http://arxiv.org/abs/2107.06278)] [[code](https://github.com/facebookresearch/MaskFormer)]
 - **[SwinIR]** SwinIR: Image Restoration Using Swin Transformer [[paper](https://arxiv.org/abs/2108.10257)] [[code](https://github.com/JingyunLiang/SwinIR)]
 - **[Trans4Trans]** Trans4Trans: Efficient Transformer for Transparent Object and Semantic Scene Segmentation in Real-World Navigation Assistance [[paper](https://arxiv.org/abs/2108.09174)]
@@ -260,6 +261,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[STTR]** Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2011.02910v2)] [[code](https://github.com/mli0603/stereo-transformer)]
 
 ### 2021
+- **[TransFER]** TransFER: Learning Relation-aware Facial Expression Representations with Transformers (**ICCV**) [[paper](https://arxiv.org/abs/2108.11116)] 
 - **[Oriented RCNN]** Oriented Object Detection with Transformer  (**ICCV**) [[paper](https://arxiv.org/abs/2106.03146)]
 - **[Stark]** Learning Spatio-Temporal Transformer for Visual Tracking  (**ICCV**)  [[paper](https://arxiv.org/abs/2103.17154)] [[code](https://github.com/researchmm/Stark)]
 - **[CT3D]** Improving 3D Object Detection with Channel-wise Transformer  (**ICCV**)  [[paper](https://arxiv.org/abs/2108.10723)]
