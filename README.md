@@ -21,6 +21,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- **[LOTR]** LOTR: Face Landmark Localization Using Localization Transformer [[paper](https://arxiv.org/abs/2109.10057)]
 - Transformer-Unet: Raw Image Processing with Unet [[paper](https://arxiv.org/abs/2109.08417)]
 - **[GraFormer]** GraFormer: Graph Convolution Transformer for 3D Pose Estimation [[paper](https://arxiv.org/abs/2109.08364)]
 - **[CDTrans]** CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation [[paper](https://arxiv.org/abs/2109.06165)]
