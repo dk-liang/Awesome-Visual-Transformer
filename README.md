@@ -21,6 +21,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- **[Pix2seq]** Pix2seq: A Language Modeling Framework for Object Detection [[paper](https://arxiv.org/abs/2109.10852)]
+- **[CoAtNet]** CoAtNet: Marrying Convolution and Attention for All Data Sizes [[paper](https://arxiv.org/pdf/2106.04803.pdf)]
 - **[LOTR]** LOTR: Face Landmark Localization Using Localization Transformer [[paper](https://arxiv.org/abs/2109.10057)]
 - Transformer-Unet: Raw Image Processing with Unet [[paper](https://arxiv.org/abs/2109.08417)]
 - **[GraFormer]** GraFormer: Graph Convolution Transformer for 3D Pose Estimation [[paper](https://arxiv.org/abs/2109.08364)]
@@ -267,6 +269,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[STTR]** Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2011.02910v2)] [[code](https://github.com/mli0603/stereo-transformer)]
 
 ### 2021
+- T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression  (**GCPR**) [[paper](https://arxiv.org/abs/2109.10948)]
 - **[3DETR]** An End-to-End Transformer Model for 3D Object Detection  (**ICCV**) [[paper](https://arxiv.org/abs/2109.08141)] [[code](https://github.com/facebookresearch/3detr)]
 - **[Eformer]** Eformer: Edge Enhancement based Transformer for Medical Image Denoising  (**ICCV**) [[paper](https://arxiv.org/abs/2109.08044)]
 - **[TransFER]** TransFER: Learning Relation-aware Facial Expression Representations with Transformers (**ICCV**) [[paper](https://arxiv.org/abs/2108.11116)] 
