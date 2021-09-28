@@ -21,6 +21,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- Vision Transformer Hashing for Image Retrieval [[paper](https://arxiv.org/abs/2109.12564)]
+- **[OH-Former]** OH-Former: Omni-Relational High-Order Transformer for Person Re-Identification [[paper](https://arxiv.org/abs/2109.11159)]
 - **[Pix2seq]** Pix2seq: A Language Modeling Framework for Object Detection [[paper](https://arxiv.org/abs/2109.10852)]
 - **[CoAtNet]** CoAtNet: Marrying Convolution and Attention for All Data Sizes [[paper](https://arxiv.org/pdf/2106.04803.pdf)]
 - **[LOTR]** LOTR: Face Landmark Localization Using Localization Transformer [[paper](https://arxiv.org/abs/2109.10057)]
