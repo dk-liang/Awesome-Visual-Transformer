@@ -22,7 +22,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
 - **[TranSalNet]** TranSalNet: Visual saliency prediction using transformers [[paper](https://arxiv.org/abs/2110.03593)]
-- **[MobileViT]** MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer [[https://arxiv.org/abs/2110.02178]]
+- **[MobileViT]** MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer [[paper](https://arxiv.org/abs/2110.02178)]
 - A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition [[paper](https://arxiv.org/abs/2110.01240)]
 - **[3D-Transformer]** 3D-Transformer: Molecular Representation with Transformer in 3D Space [[paper](https://arxiv.org/abs/2110.01191)]
 - **[CCTrans]** CCTrans: Simplifying and Improving Crowd Counting with Transformer [[paper](https://arxiv.org/abs/2109.14483)]
