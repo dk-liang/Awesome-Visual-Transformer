@@ -21,6 +21,13 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- **[TranSalNet]** TranSalNet: Visual saliency prediction using transformers [[paper](https://arxiv.org/abs/2110.03593)]
+- **[MobileViT]** MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer [[https://arxiv.org/abs/2110.02178]]
+- A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition [[paper](https://arxiv.org/abs/2110.01240)]
+- **[3D-Transformer]** 3D-Transformer: Molecular Representation with Transformer in 3D Space [[paper](https://arxiv.org/abs/2110.01191)]
+- **[CCTrans]** CCTrans: Simplifying and Improving Crowd Counting with Transformer [[paper](https://arxiv.org/abs/2109.14483)]
+- **[UFO-ViT]** UFO-ViT: High Performance Linear Vision Transformer without Softmax [[paper](https://arxiv.org/abs/2109.14382)]
+- Sparse Spatial Transformers for Few-Shot Learning [[paper](https://arxiv.org/abs/2109.12932)]
 - Vision Transformer Hashing for Image Retrieval [[paper](https://arxiv.org/abs/2109.12564)]
 - **[OH-Former]** OH-Former: Omni-Relational High-Order Transformer for Person Re-Identification [[paper](https://arxiv.org/abs/2109.11159)]
 - **[Pix2seq]** Pix2seq: A Language Modeling Framework for Object Detection [[paper](https://arxiv.org/abs/2109.10852)]
