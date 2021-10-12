@@ -111,7 +111,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations [[paper](https://arxiv.org/abs/2106.01548)] [[code]()]
 - Unsupervised Out-of-Domain Detection via Pre-trained Transformers [[paper](https://arxiv.org/abs/2106.00948)]
 - **[TransMIL]** TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classication [[paper](https://arxiv.org/abs/2106.00908)]
-- **[YOLOS]** You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection [[paper](https://arxiv.org/abs/2106.00666)] [[code](https://github.com/hustvl/YOLOS)]
 - **[TransVOS]**  TransVOS: Video Object Segmentation with Transformers [[paper](https://arxiv.org/abs/2106.00588)]
 - **[KVT]** KVT: k-NN Attention for Boosting Vision Transformers [[paper](https://arxiv.org/abs/2106.00515)] 
 - **[MSG-Transformer]** MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens [[paper](https://arxiv.org/abs/2105.15168)] [[code](https://github.com/hustvl/MSG-Transformer)]
@@ -278,6 +277,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[STTR]** Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2011.02910v2)] [[code](https://github.com/mli0603/stereo-transformer)]
 
 ### 2021
+- **[YOLOS]** You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection (**NeurIPS**) [[paper](https://arxiv.org/abs/2106.00666)] [[code](https://github.com/hustvl/YOLOS)]
 - **[CATs]** Semantic Correspondence with Transformers (**NeurIPS**) [[paper](https://arxiv.org/abs/2106.02520)] [[code](https://github.com/SunghwanHong/CATs)] 
 - **[Moment-DETR]** QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries (**NeurIPS**) [[paper](https://arxiv.org/abs/2107.09609)] [[code](https://github.com/jayleicn/moment_detr)]
 - Dual-stream Network for Visual Recognition (**NeurIPS**)  [[paper](https://arxiv.org/abs/2105.14734)] [[code](https://github.com/gaopengcuhk/DSNet)]
