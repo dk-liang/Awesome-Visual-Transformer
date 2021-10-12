@@ -21,6 +21,10 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- **[NViT]** NViT: Vision Transformer Compression and Parameter Redistribution [[paper](https://arxiv.org/abs/2110.04869)]
+- 6D-ViT: Category-Level 6D Object Pose Estimation via Transformer-based Instance Representation Learning [[paper](https://arxiv.org/abs/2110.04792)]
+- Adversarial Token Attacks on Vision Transformers [[paper](https://arxiv.org/abs/2110.04337)]
+- Contextual Transformer Networks for Visual Recognition [[paper](https://arxiv.org/pdf/2107.12292.pdf)] [[code](https://github.com/JDAI-CV/CoTNet)]
 - **[TranSalNet]** TranSalNet: Visual saliency prediction using transformers [[paper](https://arxiv.org/abs/2110.03593)]
 - **[MobileViT]** MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer [[paper](https://arxiv.org/abs/2110.02178)]
 - A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition [[paper](https://arxiv.org/abs/2110.01240)]
@@ -274,6 +278,8 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[STTR]** Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2011.02910v2)] [[code](https://github.com/mli0603/stereo-transformer)]
 
 ### 2021
+- **[CATs]** Semantic Correspondence with Transformers (**NeurIPS**) [[paper](https://arxiv.org/abs/2106.02520)] [[code](https://github.com/SunghwanHong/CATs)] 
+- **[Moment-DETR]** QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries (**NeurIPS**) [[paper](https://arxiv.org/abs/2107.09609)] [[code](https://github.com/jayleicn/moment_detr)]
 - Dual-stream Network for Visual Recognition (**NeurIPS**)  [[paper](https://arxiv.org/abs/2105.14734)] [[code](https://github.com/gaopengcuhk/DSNet)]
 - **[Container]** Container: Context Aggregation Network (**NeurIPS**) [[paper](https://arxiv.org/abs/2106.01401)] [[code](https://github.com/gaopengcuhk/Container)]
 - **[TNT]** Transformer in Transformer (**NeurIPS**) [[paper](https://arxiv.org/abs/2103.00112)] [[code](https://github.com/huawei-noah/noah-research/tree/master/TNT)]
