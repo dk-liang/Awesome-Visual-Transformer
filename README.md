@@ -21,7 +21,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
-- **[PnP-DETR]** PnP-DETR: Towards Efficient Visual Analysis with Transformers [[paper](https://arxiv.org/abs/2109.07036)]
+- **[ORViT]** Object-Region Video Transformers [[paper](https://arxiv.org/abs/2110.06915)] [[code](https://roeiherz.github.io/ORViT/)]
+- Adaptively Multi-view and Temporal Fusing Transformer for 3D Human Pose Estimation [[paper](https://arxiv.org/abs/2110.05092)] [[code](https://github.com/lelexx/MTF-Transformer)]
 - **[NViT]** NViT: Vision Transformer Compression and Parameter Redistribution [[paper](https://arxiv.org/abs/2110.04869)]
 - 6D-ViT: Category-Level 6D Object Pose Estimation via Transformer-based Instance Representation Learning [[paper](https://arxiv.org/abs/2110.04792)]
 - Adversarial Token Attacks on Vision Transformers [[paper](https://arxiv.org/abs/2110.04337)]
@@ -220,7 +221,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - Lifting Transformer for 3D Human Pose Estimation in Video [[paper](https://arxiv.org/abs/2103.14304)]
 - **[GSA-Net]** Global Self-Attention Networks for Image Recognition[[paper](https://arxiv.org/abs/2010.03019)]
 - High-Fidelity Pluralistic Image Completion with Transformers [[paper](https://arxiv.org/abs/2103.14031)] [[code](http://raywzy.com/ICT)]
-- Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[paper](https://arxiv.org/abs/2103.14030)] [[code](https://github.com/microsoft/Swin-Transformer)]
 - **[DPT]** Vision Transformers for Dense Prediction [[paper](https://arxiv.org/abs/2103.13413)] [[code](https://github.com/intel-isl/DPT)]
 - **[TransFG]** TransFG: A Transformer Architecture for Fine-grained Recognition? [[paper](https://arxiv.org/abs/2103.07976)]
 - **[TimeSformer]** Is Space-Time Attention All You Need for Video Understanding? [[paper](https://arxiv.org/abs/2102.05095)]
@@ -285,6 +285,10 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[Container]** Container: Context Aggregation Network (**NeurIPS**) [[paper](https://arxiv.org/abs/2106.01401)] [[code](https://github.com/gaopengcuhk/Container)]
 - **[TNT]** Transformer in Transformer (**NeurIPS**) [[paper](https://arxiv.org/abs/2103.00112)] [[code](https://github.com/huawei-noah/noah-research/tree/master/TNT)]
 - T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression (**GCPR**) [[paper](https://arxiv.org/abs/2109.10948)]
+- **[DETR3D]** DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries (**CORL**) [[paper](https://arxiv.org/abs/2110.06922)] 
+- Swin Transformer: Hierarchical Vision Transformer using Shifted Windows  (**ICCV Marr Prize**)  [[paper](https://arxiv.org/abs/2103.14030)] [[code](https://github.com/microsoft/Swin-Transformer)]
+- **[SignBERT]** SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition (**ICCV**) [[paper](https://arxiv.org/abs/2110.05382)]
+- **[PnP-DETR]** PnP-DETR: Towards Efficient Visual Analysis with Transformers (**ICCV**)  [[paper](https://arxiv.org/abs/2109.07036)] [[code](https://github.com/twangnh/pnp-detr)]
 - [**VoTr**] Voxel Transformer for 3D Object Detection (**ICCV**) [[paper](https://arxiv.org/abs/2109.02497)]
 - **[TransVG]** TransVG: End-to-End Visual Grounding with Transformers (**ICCV**)[[paper](https://arxiv.org/abs/2104.08541)]
 - **[3DETR]** An End-to-End Transformer Model for 3D Object Detection (**ICCV**) [[paper](https://arxiv.org/abs/2109.08141)] [[code](https://github.com/facebookresearch/3detr)]
