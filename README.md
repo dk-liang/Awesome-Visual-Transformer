@@ -21,7 +21,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
-- **[PnP-DETR]** PnP-DETR: Towards Efficient Visual Analysis with Transformers [[paper]()]
+- **[PnP-DETR]** PnP-DETR: Towards Efficient Visual Analysis with Transformers [[paper](https://arxiv.org/abs/2109.07036)]
 - **[NViT]** NViT: Vision Transformer Compression and Parameter Redistribution [[paper](https://arxiv.org/abs/2110.04869)]
 - 6D-ViT: Category-Level 6D Object Pose Estimation via Transformer-based Instance Representation Learning [[paper](https://arxiv.org/abs/2110.04792)]
 - Adversarial Token Attacks on Vision Transformers [[paper](https://arxiv.org/abs/2110.04337)]
