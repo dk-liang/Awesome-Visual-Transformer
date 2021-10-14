@@ -21,6 +21,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- **[PnP-DETR]** PnP-DETR: Towards Efficient Visual Analysis with Transformers [[paper]()]
 - **[NViT]** NViT: Vision Transformer Compression and Parameter Redistribution [[paper](https://arxiv.org/abs/2110.04869)]
 - 6D-ViT: Category-Level 6D Object Pose Estimation via Transformer-based Instance Representation Learning [[paper](https://arxiv.org/abs/2110.04792)]
 - Adversarial Token Attacks on Vision Transformers [[paper](https://arxiv.org/abs/2110.04337)]
@@ -284,6 +285,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[Container]** Container: Context Aggregation Network (**NeurIPS**) [[paper](https://arxiv.org/abs/2106.01401)] [[code](https://github.com/gaopengcuhk/Container)]
 - **[TNT]** Transformer in Transformer (**NeurIPS**) [[paper](https://arxiv.org/abs/2103.00112)] [[code](https://github.com/huawei-noah/noah-research/tree/master/TNT)]
 - T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression (**GCPR**) [[paper](https://arxiv.org/abs/2109.10948)]
+- [**VoTr**] Voxel Transformer for 3D Object Detection (**ICCV**) [[paper](https://arxiv.org/abs/2109.02497)]
 - **[TransVG]** TransVG: End-to-End Visual Grounding with Transformers (**ICCV**)[[paper](https://arxiv.org/abs/2104.08541)]
 - **[3DETR]** An End-to-End Transformer Model for 3D Object Detection (**ICCV**) [[paper](https://arxiv.org/abs/2109.08141)] [[code](https://github.com/facebookresearch/3detr)]
 - **[Eformer]** Eformer: Edge Enhancement based Transformer for Medical Image Denoising  (**ICCV**) [[paper](https://arxiv.org/abs/2109.08044)]
@@ -340,7 +342,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[UP-DETR]** UP-DETR: Unsupervised Pre-training for Object Detection with Transformers (**CVPR**) [[paper](https://arxiv.org/abs/2011.09094)]
 - **[IQT]** Perceptual Image Quality Assessment with Transformers (**CVPRW**) [[paper](https://arxiv.org/abs/2104.14730)]
 - High-Resolution Complex Scene Synthesis with Transformers (**CVPRW**) [[paper](https://arxiv.org/abs/2105.06458)]
-- **[YOGO]** You Only Group Once: Efficient Point-Cloud Processing with Token
+- **[YOGO]** You Only Group Once: Efficient Point-Cloud Processing with Token 
 Representation and Relation Inference Module (**IROS**)  [[paper](https://arxiv.org/abs/2103.09975)] [[code](https://github.com/chenfengxu714/YOGO.git)]
 - **[PTT]** PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds (**IROS**)  [[paper](https://arxiv.org/abs/2108.06455)] [[code](https://github.com/shanjiayao/PTT)]
 - **[VTNet]** VTNet: Visual Transformer Network for Object Goal Navigation (**ICLR**) [[paper](https://arxiv.org/abs/2105.09447)]
