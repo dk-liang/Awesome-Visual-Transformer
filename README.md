@@ -274,7 +274,6 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[Container]** Container: Context Aggregation Network [[paper](https://arxiv.org/abs/2106.01401)] [[code](https://github.com/gaopengcuhk/Container)]
 - **[TNT]** Transformer in Transformer [[paper](https://arxiv.org/abs/2103.00112)] [[code](https://github.com/huawei-noah/noah-research/tree/master/TNT)]
 - T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression [[paper](https://arxiv.org/abs/2109.10948)]
-- **[DETR3D]** DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries [[paper](https://arxiv.org/abs/2110.06922)] 
 
 **ICCV**
 - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows  (**Marr Prize**)  [[paper](https://arxiv.org/abs/2103.14030)] [[code](https://github.com/microsoft/Swin-Transformer)]
@@ -350,7 +349,6 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[AutoFormer]** AutoFormer: Searching Transformers for Visual Recognition [[paper](https://arxiv.org/pdf/2107.00651.pdf)] [[code](https://github.com/microsoft/AutoML)]
 
 **CVPR**
-
 - Diverse Part Discovery: Occluded Person Re-identification with Part-Aware Transformer [[paper](https://arxiv.org/abs/2106.04095)]
 - **[HOTR]** HOTR: End-to-End Human-Object Interaction Detection with Transformers (**oral**) [[paper](https://arxiv.org/abs/2104.13682)] 
 - **[TransFuser]** Multi-Modal Fusion Transformer for End-to-End Autonomous Driving [[paper](https://arxiv.org/abs/2104.09224)] [[code](https://github.com/autonomousvision/transfuser)]
@@ -395,6 +393,9 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 **ISIE**  
 - VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization (**ISIE**) [[paper](https://arxiv.org/abs/2104.10036)]
+
+**CORL**
+- **[DETR3D]** DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries [[paper](https://arxiv.org/abs/2110.06922)] 
 
 **IJCAI**
 - Medical Image Segmentation using Squeeze-and-Expansion Transformers  [[paper](https://arxiv.org/abs/2105.09511)]
