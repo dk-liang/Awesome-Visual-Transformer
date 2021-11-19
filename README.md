@@ -21,6 +21,10 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- Swin Transformer V2: Scaling Up Capacity and Resolution [[paper](https://arxiv.org/abs/2111.09883)]
+- **[Restormer]** Restormer: Efficient Transformer for High-Resolution Image Restoration [[paper](https://arxiv.org/abs/2111.09881)]
+- **[MAE]** Masked Autoencoders Are Scalable Vision Learners [[paper](https://arxiv.org/abs/2111.06377)]
+- Improved Robustness of Vision Transformer via PreLayerNorm in Patch Embedding [[paper](https://arxiv.org/abs/2111.08413)]
 - **[ORViT]** Object-Region Video Transformers [[paper](https://arxiv.org/abs/2110.06915)] [[code](https://roeiherz.github.io/ORViT/)]
 - Adaptively Multi-view and Temporal Fusing Transformer for 3D Human Pose Estimation [[paper](https://arxiv.org/abs/2110.05092)] [[code](https://github.com/lelexx/MTF-Transformer)]
 - **[NViT]** NViT: Vision Transformer Compression and Parameter Redistribution [[paper](https://arxiv.org/abs/2110.04869)]
