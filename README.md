@@ -4,7 +4,6 @@ Collect some Transformer with Computer-Vision (CV) papers.
 
 If you find some overlooked papers, please open issues or pull requests (recommended).
 
-
 ## Papers
 
 ### Transformer original paper
@@ -17,10 +16,14 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - [Chinese Blog] Vision Transformer 超详细解读 (原理分析+代码解读) [[Link](https://zhuanlan.zhihu.com/p/348593638)]
 
 ### Survey
+  - A Survey of Visual Transformers [[paper](https://arxiv.org/abs/2111.06091)]  - 2021.11.30
   - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.02.22
-  - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
+  - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2021.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- Fast Point Transformer [[paper](https://arxiv.org/abs/2112.04702)]
+- Dynamic Token Normalization Improves Vision Transformer [[paper](https://arxiv.org/abs/2112.02624)]
+- TokenLearner: What Can 8 Learned Tokens Do for Images and Videos? [[paper](https://arxiv.org/abs/2106.11297)] [[code](https://github.com/google-research/scenic/tree/main/scenic/projects/token_learner)]
 - Swin Transformer V2: Scaling Up Capacity and Resolution [[paper](https://arxiv.org/abs/2111.09883)]
 - **[Restormer]** Restormer: Efficient Transformer for High-Resolution Image Restoration [[paper](https://arxiv.org/abs/2111.09881)]
 - **[MAE]** Masked Autoencoders Are Scalable Vision Learners [[paper](https://arxiv.org/abs/2111.06377)]
@@ -271,6 +274,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 ### 2021
 **NeurIPS**  
+- Augmented Shortcuts for Vision Transformers [[paper](https://arxiv.org/abs/2106.15941)]
 - **[YOLOS]** You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection [[paper](https://arxiv.org/abs/2106.00666)] [[code](https://github.com/hustvl/YOLOS)]
 - **[CATs]** Semantic Correspondence with Transformers [[paper](https://arxiv.org/abs/2106.02520)] [[code](https://github.com/SunghwanHong/CATs)] 
 - **[Moment-DETR]** QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries [[paper](https://arxiv.org/abs/2107.09609)] [[code](https://github.com/jayleicn/moment_detr)]
