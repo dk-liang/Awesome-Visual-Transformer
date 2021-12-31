@@ -21,6 +21,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2021.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
+- **[StyleSwin]** StyleSwin: Transformer-based GAN for High-resolution Image Generation [[paper](https://arxiv.org/abs/2112.10762)][[code](https://github.com/microsoft/StyleSwin)]
 - **[SReT]** Sliced Recursive Transformer [[paper](https://arxiv.org/abs/2111.05297)] [[code](https://github.com/szq0214/SReT)]
 - Fast Point Transformer [[paper](https://arxiv.org/abs/2112.04702)]
 - Dynamic Token Normalization Improves Vision Transformer [[paper](https://arxiv.org/abs/2112.02624)]
