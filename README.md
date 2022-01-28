@@ -12,7 +12,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 
 ### Technical blog
 
-- [English Blog] Transformers in Vision https://davide-coccomini.medium.com/ 
+- [English Blog] Transformers in Vision [[Link](https://davide-coccomini.medium.com/)]
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
 - [Chinese Blog] Vision Transformer 超详细解读 (原理分析+代码解读) [[Link](https://zhuanlan.zhihu.com/p/348593638)]
 
@@ -23,7 +23,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
  
 ### arXiv papers
-- **[CrossEfficientViT]** Combining EfficientNet and Vision Transformers for Video Deepfake Detection [[paper](https://arxiv.org/abs/2107.02612)]
+- **[CrossEfficientViT]** Combining EfficientNet and Vision Transformers for Video Deepfake Detection [[paper](https://arxiv.org/abs/2107.02612)][[code](https://github.com/davide-coccomini/Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection)]
 - **[Discrete ViT]** Discrete Representations Strengthen Vision Transformer Robustness [[paper](https://arxiv.org/abs/2111.10493)]
 - **[StyleSwin]** StyleSwin: Transformer-based GAN for High-resolution Image Generation [[paper](https://arxiv.org/abs/2112.10762)][[code](https://github.com/microsoft/StyleSwin)]
 - **[SReT]** Sliced Recursive Transformer [[paper](https://arxiv.org/abs/2111.05297)] [[code](https://github.com/szq0214/SReT)]
