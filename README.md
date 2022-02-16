@@ -21,11 +21,11 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.02.22
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2021.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
- 
+
 ### arXiv papers
-- **[CrossEfficientViT]** Combining EfficientNet and Vision Transformers for Video Deepfake Detection [[paper](https://arxiv.org/abs/2107.02612)][[code](https://github.com/davide-coccomini/Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection)]
+- **[CrossEfficientViT]** Combining EfficientNet and Vision Transformers for Video Deepfake Detection [[paper](https://arxiv.org/abs/2107.02612)] [[code](https://github.com/davide-coccomini/Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection)]
 - **[Discrete ViT]** Discrete Representations Strengthen Vision Transformer Robustness [[paper](https://arxiv.org/abs/2111.10493)]
-- **[StyleSwin]** StyleSwin: Transformer-based GAN for High-resolution Image Generation [[paper](https://arxiv.org/abs/2112.10762)][[code](https://github.com/microsoft/StyleSwin)]
+- **[StyleSwin]** StyleSwin: Transformer-based GAN for High-resolution Image Generation [[paper](https://arxiv.org/abs/2112.10762)] [[code](https://github.com/microsoft/StyleSwin)]
 - **[SReT]** Sliced Recursive Transformer [[paper](https://arxiv.org/abs/2111.05297)] [[code](https://github.com/szq0214/SReT)]
 - Fast Point Transformer [[paper](https://arxiv.org/abs/2112.04702)]
 - Dynamic Token Normalization Improves Vision Transformer [[paper](https://arxiv.org/abs/2112.02624)]
@@ -277,6 +277,11 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[TSP-FCOS]** Rethinking Transformer-based Set Prediction for Object Detection [[paper](https://arxiv.org/abs/2011.10881)]
 - **[ACT]** End-to-End Object Detection with Adaptive Clustering Transformer [[paper](https://arxiv.org/abs/2011.09315)]
 - **[STTR]** Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2011.02910v2)] [[code](https://github.com/mli0603/stereo-transformer)]
+
+### 2022
+**ICLR**
+
+- Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning [[paper](https://arxiv.org/abs/2201.04676)] [[code](https://github.com/Sense-X/UniFormer)]
 
 ### 2021
 **NeurIPS**  
