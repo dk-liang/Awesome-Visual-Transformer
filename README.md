@@ -285,7 +285,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 ### 2021
 **NeurIPS**  
-- Augmented Shortcuts for Vision Transformers [[paper](https://arxiv.org/abs/2106.15941)]
+- **[Augvit]** Augmented Shortcuts for Vision Transformers [[paper](https://arxiv.org/abs/2106.15941)] [[code](https://github.com/huawei-noah/CV-Backbones/tree/master/augvit_pytorch)]
 - **[YOLOS]** You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection [[paper](https://arxiv.org/abs/2106.00666)] [[code](https://github.com/hustvl/YOLOS)]
 - **[CATs]** Semantic Correspondence with Transformers [[paper](https://arxiv.org/abs/2106.02520)] [[code](https://github.com/SunghwanHong/CATs)] 
 - **[Moment-DETR]** QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries [[paper](https://arxiv.org/abs/2107.09609)] [[code](https://github.com/jayleicn/moment_detr)]
