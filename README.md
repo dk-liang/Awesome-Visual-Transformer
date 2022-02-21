@@ -251,7 +251,6 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - Deepfake Video Detection Using Convolutional Vision Transformer[[paper](https://arxiv.org/abs/2102.11126)]
 - Training Vision Transformers for Image Retrieval[[paper](https://arxiv.org/abs/2102.05644)]
 - **[VTN]** Video Transformer Network[[paper](https://arxiv.org/abs/2102.00719)]
-- **[T2T-ViT]** Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [[paper](https://arxiv.org/abs/2101.11986)] [[code](https://github.com/yitu-opensource/T2T-ViT)]
 - **[BoTNet]** Bottleneck Transformers for Visual Recognition [[paper](https://arxiv.org/abs/2101.11605)]
 - **[CPTR]** CPTR: Full Transformer Network for Image Captioning [[paper](https://arxiv.org/abs/2101.10804)]
 - Learn to Dance with AIST++: Music Conditioned 3D Dance Generation [[paper](https://arxiv.org/abs/2101.08779)] [[code](https://google.github.io/aichoreographer/)]
@@ -260,7 +259,6 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[Trear]** Trear: Transformer-based RGB-D Egocentric Action Recognition [[paper](https://arxiv.org/abs/2101.03904)]
 - **[VisualSparta]** VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search [[paper](https://arxiv.org/abs/2101.00265)]
 - **[TrackFormer]** TrackFormer: Multi-Object Tracking with Transformers [[paper](https://arxiv.org/abs/2101.02702)]
-- **[LETR]** Line Segment Detection Using Transformers without Edges [[paper](https://arxiv.org/abs/2101.01909)]
 - **[TAPE]** Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry [[paper](https://arxiv.org/abs/2101.02143)]
 - **[TRIQ]** Transformer for Image Quality Assessment [[paper](https://arxiv.org/abs/2101.01097)] [[code](https://github.com/junyongyou/triq)]
 - **[TransTrack]** TransTrack: Multiple-Object Tracking with Transformer [[paper](https://arxiv.org/abs/2012.15460)] [[code](https://github.com/PeizeSun/TransTrack)]
@@ -270,13 +268,9 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[Taming-transformers]** Taming Transformers for High-Resolution Image Synthesis [[paper](https://arxiv.org/abs/2012.09841)] [[code](https://compvis.github.io/taming-transformers/)]
 - **[SceneFormer]** SceneFormer: Indoor Scene Generation with Transformers [[paper](https://arxiv.org/abs/2012.09793)] 
 - **[PCT]** PCT: Point Cloud Transformer [[paper](https://arxiv.org/abs/2012.09688)] 
-- **[METRO]** End-to-End Human Pose and Mesh Reconstruction with Transformers [[paper](https://arxiv.org/abs/2012.09760)]
 - **[PED]** DETR for Pedestrian Detection[[paper](https://arxiv.org/abs/2012.06785)]
 - Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry[[paper](https://arxiv.org/abs/2101.02143)]
 - **[C-Tran]** General Multi-label Image Classification with Transformers [[paper](https://arxiv.org/abs/2011.14027)]
-- **[TSP-FCOS]** Rethinking Transformer-based Set Prediction for Object Detection [[paper](https://arxiv.org/abs/2011.10881)]
-- **[ACT]** End-to-End Object Detection with Adaptive Clustering Transformer [[paper](https://arxiv.org/abs/2011.09315)]
-- **[STTR]** Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2011.02910v2)] [[code](https://github.com/mli0603/stereo-transformer)]
 
 ### 2022
 **ICLR**
@@ -285,6 +279,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 ### 2021
 **NeurIPS**  
+
 - **[Augvit]** Augmented Shortcuts for Vision Transformers [[paper](https://arxiv.org/abs/2106.15941)] [[code](https://github.com/huawei-noah/CV-Backbones/tree/master/augvit_pytorch)]
 - **[YOLOS]** You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection [[paper](https://arxiv.org/abs/2106.00666)] [[code](https://github.com/hustvl/YOLOS)]
 - **[CATs]** Semantic Correspondence with Transformers [[paper](https://arxiv.org/abs/2106.02520)] [[code](https://github.com/SunghwanHong/CATs)] 
@@ -320,8 +315,11 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 **ICCV**
 - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows  (**Marr Prize**)  [[paper](https://arxiv.org/abs/2103.14030)] [[code](https://github.com/microsoft/Swin-Transformer)]
 - **[PoinTr]** PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers  (**oral**) [[paper](https://arxiv.org/abs/2108.08839)] [[code](https://github.com/yuxumin/PoinTr)]
+- **[STTR]** Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2011.02910v2)] [[code](https://github.com/mli0603/stereo-transformer)]
+- **[TSP-FCOS]** Rethinking Transformer-based Set Prediction for Object Detection [[paper](https://arxiv.org/abs/2011.10881)]
 -  Paint Transformer: Feed Forward Neural Painting with Stroke Prediction  (**oral**) ) [[paper](https://arxiv.org/abs/2108.03798]) [[code](https://github.com/Huage001/PaintTransformer)]
 - 3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf)]
+- **[T2T-ViT]** Training Vision Transformers from Scratch on ImageNet [[paper](https://arxiv.org/abs/2101.11986)] [[code](https://github.com/yitu-opensource/T2T-ViT)]
 - **[THUNDR]** THUNDR: Transformer-Based 3D Human Reconstruction With Markers [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zanfir_THUNDR_Transformer-Based_3D_Human_Reconstruction_With_Markers_ICCV_2021_paper.html)]
 - Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding [[paper](https://arxiv.org/abs/2103.15358)]
 - **[PVT]** Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions [[paper](https://arxiv.org/abs/2102.12122)] [[code](https://github.com/whai362/PVT)]
@@ -393,6 +391,8 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 **CVPR**
 - Diverse Part Discovery: Occluded Person Re-identification with Part-Aware Transformer [[paper](https://arxiv.org/abs/2106.04095)]
 - **[HOTR]** HOTR: End-to-End Human-Object Interaction Detection with Transformers (**oral**) [[paper](https://arxiv.org/abs/2104.13682)] 
+- **[METRO]** End-to-End Human Pose and Mesh Reconstruction with Transformers [[paper](https://arxiv.org/abs/2012.09760)]
+- **[LETR]** Line Segment Detection Using Transformers without Edges [[paper](https://arxiv.org/abs/2101.01909)]
 - **[TransFuser]** Multi-Modal Fusion Transformer for End-to-End Autonomous Driving [[paper](https://arxiv.org/abs/2104.09224)] [[code](https://github.com/autonomousvision/transfuser)]
 - Pose Recognition with Cascade Transformers  [[paper](https://arxiv.org/abs/2104.06976)]
 - Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning  [[paper](https://arxiv.org/abs/2104.03135)]
@@ -434,6 +434,9 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[MCTrans]** Multi-Compound Transformer for Accurate Biomedical Image Segmentation  [[paper](https://arxiv.org/abs/2106.14385)]
 - **[PNS-Net]** Progressively Normalized Self-Attention Network for Video Polyp Segmentation  [[paper](https://arxiv.org/abs/2105.08468)] [[code](https://github.com/GewelsJI/PNS-Net)]
 - **[MBT-Net]** A Multi-Branch Hybrid Transformer Networkfor Corneal Endothelial Cell Segmentation [[paper](https://arxiv.org/abs/2106.07557)]
+
+**BMVC**
+- **[ACT]** End-to-End Object Detection with Adaptive Clustering Transformer [[paper](https://arxiv.org/abs/2011.09315)]
 
 **ISIE**  
 - VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization (**ISIE**) [[paper](https://arxiv.org/abs/2104.10036)]
