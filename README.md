@@ -23,6 +23,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 
 ### arXiv papers
+- PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers [[paper](https://arxiv.org/pdf/2111.12710.pdf)]
+- ResViT: Residual vision transformers for multi-modal medical image synthesis [[paper](https://arxiv.org/abs/2106.16031)]
 - **[CrossEfficientViT]** Combining EfficientNet and Vision Transformers for Video Deepfake Detection [[paper](https://arxiv.org/abs/2107.02612)] [[code](https://github.com/davide-coccomini/Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection)]
 - **[Discrete ViT]** Discrete Representations Strengthen Vision Transformer Robustness [[paper](https://arxiv.org/abs/2111.10493)]
 - **[StyleSwin]** StyleSwin: Transformer-based GAN for High-resolution Image Generation [[paper](https://arxiv.org/abs/2112.10762)] [[code](https://github.com/microsoft/StyleSwin)]
@@ -275,7 +277,10 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 ### 2022
 
 **CVPR**
-- **[SAM-DETR (Semantic-Aligned-Matching DETR)]** Accelerating DETR Convergence via Semantic-Aligned Matching [[paper](https://arxiv.org/abs/2203.06883)] [[code](https://github.com/ZhangGongjie/SAM-DETR)]
+
+- **[SAM-DETR]** Accelerating DETR Convergence via Semantic-Aligned Matching [[paper](https://arxiv.org/abs/2203.06883)] [[code](https://github.com/ZhangGongjie/SAM-DETR)]
+- **[BEVT]** BEVT: BERT Pretraining of Video Transformers [[paper](https://arxiv.org/pdf/2112.01529.pdf)] [[code](https://github.com/xyzforever/BEVT)]
+- **[MobileFormer]** Mobile-Former: Bridging MobileNet and Transformer [[paper](https://arxiv.org/pdf/2108.05895.pdf)]
 
 **ICLR**
 
@@ -317,7 +322,9 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - Efficient Training of Visual Transformers with Small Datasets [[paper](https://papers.nips.cc/paper/2021/hash/c81e155d85dae5430a8cee6f2242e82c-Abstract.html)]
 
 **ICCV**
+
 - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows  (**Marr Prize**)  [[paper](https://arxiv.org/abs/2103.14030)] [[code](https://github.com/microsoft/Swin-Transformer)]
+- **[ICT]** High-Fidelity Pluralistic Image Completion with Transformers [[paper](https://arxiv.org/pdf/2103.14031.pdf)] [[code](https://github.com/raywzy/ICT)]
 - **[PoinTr]** PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers  (**oral**) [[paper](https://arxiv.org/abs/2108.08839)] [[code](https://github.com/yuxumin/PoinTr)]
 - **[STTR]** Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[paper](https://arxiv.org/abs/2011.02910v2)] [[code](https://github.com/mli0603/stereo-transformer)]
 - **[TSP-FCOS]** Rethinking Transformer-based Set Prediction for Object Detection [[paper](https://arxiv.org/abs/2011.10881)]
