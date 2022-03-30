@@ -281,6 +281,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[SAM-DETR]** Accelerating DETR Convergence via Semantic-Aligned Matching [[paper](https://arxiv.org/abs/2203.06883)] [[code](https://github.com/ZhangGongjie/SAM-DETR)]
 - **[BEVT]** BEVT: BERT Pretraining of Video Transformers [[paper](https://arxiv.org/pdf/2112.01529.pdf)] [[code](https://github.com/xyzforever/BEVT)]
 - **[MobileFormer]** Mobile-Former: Bridging MobileNet and Transformer [[paper](https://arxiv.org/pdf/2108.05895.pdf)]
+- **[STRM]** Spatio-temporal Relation Modeling for Few-shot Action Recognition [[paper](https://arxiv.org/pdf/2112.05132.pdf)] [[code](https://github.com/Anirudh257/strm)]
 
 **ICLR**
 
