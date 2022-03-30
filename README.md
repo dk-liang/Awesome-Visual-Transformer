@@ -33,7 +33,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - Dynamic Token Normalization Improves Vision Transformer [[paper](https://arxiv.org/abs/2112.02624)]
 - TokenLearner: What Can 8 Learned Tokens Do for Images and Videos? [[paper](https://arxiv.org/abs/2106.11297)] [[code](https://github.com/google-research/scenic/tree/main/scenic/projects/token_learner)]
 - Swin Transformer V2: Scaling Up Capacity and Resolution [[paper](https://arxiv.org/abs/2111.09883)]
-- **[Restormer]** Restormer: Efficient Transformer for High-Resolution Image Restoration [[paper](https://arxiv.org/abs/2111.09881)]
 - **[MAE]** Masked Autoencoders Are Scalable Vision Learners [[paper](https://arxiv.org/abs/2111.06377)]
 - Improved Robustness of Vision Transformer via PreLayerNorm in Patch Embedding [[paper](https://arxiv.org/abs/2111.08413)]
 - **[ORViT]** Object-Region Video Transformers [[paper](https://arxiv.org/abs/2110.06915)] [[code](https://roeiherz.github.io/ORViT/)]
@@ -278,6 +277,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 **CVPR**
 
+- **[Restormer]** Restormer: Efficient Transformer for High-Resolution Image Restoration [[paper](https://arxiv.org/abs/2111.09881)] [[code](https://github.com/swz30/Restormer)]
 - **[SAM-DETR]** Accelerating DETR Convergence via Semantic-Aligned Matching [[paper](https://arxiv.org/abs/2203.06883)] [[code](https://github.com/ZhangGongjie/SAM-DETR)]
 - **[BEVT]** BEVT: BERT Pretraining of Video Transformers [[paper](https://arxiv.org/pdf/2112.01529.pdf)] [[code](https://github.com/xyzforever/BEVT)]
 - **[MobileFormer]** Mobile-Former: Bridging MobileNet and Transformer [[paper](https://arxiv.org/pdf/2108.05895.pdf)]
