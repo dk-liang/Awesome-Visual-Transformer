@@ -23,6 +23,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 
 ### arXiv papers
+
+- **[MaxViT]** MaxViT: Multi-Axis Vision Transformer [[paper]](https://arxiv.org/abs/2204.01697)
 - **[MemMC-MAE]** Unsupervised Anomaly Detection in Medical Images with a Memory-augmented Multi-level Cross-attentional Masked Autoencoder [[paper](https://arxiv.org/abs/2203.11725)] [[code](https://github.com/tianyu0207/MemMC-MAE)]
 - Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection [[paper](https://arxiv.org/abs/2203.12121)] [[code](https://github.com/tianyu0207/weakly-polyp)]
 - **[VideoMAE]** VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training [[paper](https://arxiv.org/abs/2203.12602)] [[code](https://github.com/MCG-NJU/VideoMAE)]
