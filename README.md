@@ -287,6 +287,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[BEVT]** BEVT: BERT Pretraining of Video Transformers [[paper](https://arxiv.org/pdf/2112.01529.pdf)] [[code](https://github.com/xyzforever/BEVT)]
 - **[MobileFormer]** Mobile-Former: Bridging MobileNet and Transformer [[paper](https://arxiv.org/pdf/2108.05895.pdf)]
 - **[STRM]** Spatio-temporal Relation Modeling for Few-shot Action Recognition [[paper](https://arxiv.org/pdf/2112.05132.pdf)] [[code](https://github.com/Anirudh257/strm)]
+- **[MiniViT]** MiniViT: Compressing Vision Transformers with Weight Multiplexing [[paper](https://arxiv.org/abs/2204.07154)] [[code](https://github.com/microsoft/Cream/tree/main/MiniViT)]
 
 **ICLR**
 
