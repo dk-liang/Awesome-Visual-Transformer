@@ -23,6 +23,10 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 
 ### arXiv papers
+- **[CoFormer]** Collaborative Transformers for Grounded Situation Recognition
+[[paper](https://arxiv.org/abs/2203.16518)] [[code](https://github.com/jhcho99/CoFormer)]
+- **[GSRTR]** Grounded Situation Recognition with Transformers
+[[paper](https://arxiv.org/abs/2111.10135)] [[code](https://github.com/jhcho99/gsrtr)]
 - **[MaxViT]** MaxViT: Multi-Axis Vision Transformer [[paper]](https://arxiv.org/abs/2204.01697)
 - **[V2X-ViT]** V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer [[paper]](https://arxiv.org/abs/2203.10638)
 - **[MemMC-MAE]** Unsupervised Anomaly Detection in Medical Images with a Memory-augmented Multi-level Cross-attentional Masked Autoencoder [[paper](https://arxiv.org/abs/2203.11725)] [[code](https://github.com/tianyu0207/MemMC-MAE)]
@@ -288,6 +292,8 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[MobileFormer]** Mobile-Former: Bridging MobileNet and Transformer [[paper](https://arxiv.org/pdf/2108.05895.pdf)]
 - **[STRM]** Spatio-temporal Relation Modeling for Few-shot Action Recognition [[paper](https://arxiv.org/pdf/2112.05132.pdf)] [[code](https://github.com/Anirudh257/strm)]
 - **[MiniViT]** MiniViT: Compressing Vision Transformers with Weight Multiplexing [[paper](https://arxiv.org/abs/2204.07154)] [[code](https://github.com/microsoft/Cream/tree/main/MiniViT)]
+- **[CoFormer]** Collaborative Transformers for Grounded Situation Recognition
+[[paper](https://arxiv.org/abs/2203.16518)] [[code](https://github.com/jhcho99/CoFormer)]
 
 **ICLR**
 
@@ -425,7 +431,8 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[UP-DETR]** UP-DETR: Unsupervised Pre-training for Object Detection with Transformers [[paper](https://arxiv.org/abs/2011.09094)]
 - **[IQT]** Perceptual Image Quality Assessment with Transformers (**workshop**) [[paper](https://arxiv.org/abs/2104.14730)]
 - High-Resolution Complex Scene Synthesis with Transformers (**workshop**) [[paper](https://arxiv.org/abs/2105.06458)]
-
+- **[CoFormer]** Collaborative Transformers for Grounded Situation Recognition
+[[paper](https://arxiv.org/abs/2203.16518)] [[code](https://github.com/jhcho99/CoFormer)]
 
 **ICML**
 - Generative Video Transformer: Can Objects be the Words?  [[paper](https://arxiv.org/abs/2107.09240)]
@@ -455,6 +462,8 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 **BMVC**
 - **[ACT]** End-to-End Object Detection with Adaptive Clustering Transformer [[paper](https://arxiv.org/abs/2011.09315)]
+- **[GSRTR]** Grounded Situation Recognition with Transformers
+[[paper](https://arxiv.org/abs/2111.10135)] [[code](https://github.com/jhcho99/gsrtr)]
 
 **ISIE**  
 - VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization (**ISIE**) [[paper](https://arxiv.org/abs/2104.10036)]
