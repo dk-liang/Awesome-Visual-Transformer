@@ -23,6 +23,10 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 
 ### arXiv papers
+- **[DeiT III]** DeiT III: Revenge of the ViT
+[[paper](https://arxiv.org/pdf/2204.07118.pdf)] 
+- **[DaViT]** DaViT: Dual Attention Vision Transformers
+[[paper](https://arxiv.org/pdf/2204.03645.pdf)] 
 - **[CoFormer]** Collaborative Transformers for Grounded Situation Recognition
 [[paper](https://arxiv.org/abs/2203.16518)] [[code](https://github.com/jhcho99/CoFormer)]
 - **[GSRTR]** Grounded Situation Recognition with Transformers
@@ -488,8 +492,7 @@ Representation and Relation Inference Module (**IROS**)  [[paper](https://arxiv.
 
 - **[DETR]** End-to-End Object Detection with Transformers (**ECCV**) [[paper](https://arxiv.org/abs/2005.12872)] [[code](https://github.com/facebookresearch/detr)]
 - [**FPT**] Feature Pyramid Transformer (**CVPR**) [[paper](https://arxiv.org/abs/2007.09451)] [[code](https://github.com/ZHANGDONG-NJUST/FPT)]
-- **[TTSR]** Learning Texture Transformer Network for Image Super-Resolution (**CVPR**) [[paper](https://arxiv.org/abs/2006.04139)] [[code](https://github.com/researchmm/TTSR)]
-- **[STTN]** Learning Joint Spatial-Temporal Transformations for Video Inpainting (**ECCV**) [[paper](https://arxiv.org/abs/2007.10247)] [[code](https://github.com/researchmm/STTN)]
+
 
 ### Acknowledgement
 
