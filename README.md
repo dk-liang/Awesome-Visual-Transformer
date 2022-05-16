@@ -23,6 +23,9 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 
 ### arXiv papers
+- **[MViTv2]** Improved Multiscale Vision Transformers for Classification and Detection [[paper](https://arxiv.org/pdf/2112.01526.pdf)] [[code](https://github.com/facebookresearch/mvit)]
+- DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection [[paper](https://arxiv.org/pdf/2203.03605.pdf)] [[code](https://github.com/IDEACVR/DINO)]
+- Three things everyone should know about Vision Transformers [[paper](https://arxiv.org/pdf/2203.09795.pdf)] 
 - **[DeiT III]** DeiT III: Revenge of the ViT
 [[paper](https://arxiv.org/pdf/2204.07118.pdf)] 
 - **[DaViT]** DaViT: Dual Attention Vision Transformers
@@ -298,6 +301,15 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[MiniViT]** MiniViT: Compressing Vision Transformers with Weight Multiplexing [[paper](https://arxiv.org/abs/2204.07154)] [[code](https://github.com/microsoft/Cream/tree/main/MiniViT)]
 - **[CoFormer]** Collaborative Transformers for Grounded Situation Recognition
 [[paper](https://arxiv.org/abs/2203.16518)] [[code](https://github.com/jhcho99/CoFormer)]
+- **[DW-ViT]** Beyond Fixation: Dynamic Window Visual Transformer [[paper](https://arxiv.org/pdf/2203.12856.pdf)] [[code](https://github.com/pzhren/DW-ViT)]
+- **[TokenFusion]** Multimodal Token Fusion for Vision Transformers [[paper](https://arxiv.org/pdf/2204.08721.pdf)]
+- **[CMT]** Convolutional Neural Networks Meet Vision Transformers [[paper](https://arxiv.org/pdf/2107.06263.pdf)]
+- Fine-tuning Image Transformers using Learnable Memory [[paper](https://arxiv.org/pdf/2203.15243.pdf)]
+- **[TransMix]** Attend to Mix for Vision Transformers [[paper](https://arxiv.org/pdf/2111.09833.pdf)] [[code](https://github.com/Beckschen/TransMix)]
+- **[NomMer]** Nominate Synergistic Context in Vision Transformer for Visual Recognition [[paper](https://arxiv.org/pdf/2111.12994.pdf)] [[code](https://github.com/TencentYoutuResearch/VisualRecognition-NomMer)]
+- **[SSA]** Shunted Self-Attention via Multi-Scale Token Aggregation [[paper](https://arxiv.org/pdf/2111.15193.pdf)] [[code](https://github.com/OliverRensu/Shunted-Transformer)]
+- **[RVT]** Towards Robust Vision Transformer [[paper](https://arxiv.org/pdf/2105.07926.pdf) [[code](https://github.com/vtddggg/Robust-Vision-Transformer)]
+- **[LVT]** Lite Vision Transformer with Enhanced Self-Attention [[paper](https://arxiv.org/pdf/2112.10809.pdf) [[code](https://github.com/Chenglin-Yang/LVT)]
 
 **ICLR**
 
