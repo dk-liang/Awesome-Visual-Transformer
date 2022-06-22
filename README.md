@@ -311,7 +311,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[SSA]** Shunted Self-Attention via Multi-Scale Token Aggregation [[paper](https://arxiv.org/pdf/2111.15193.pdf)] [[code](https://github.com/OliverRensu/Shunted-Transformer)]
 - **[RVT]** Towards Robust Vision Transformer [[paper](https://arxiv.org/pdf/2105.07926.pdf) [[code](https://github.com/vtddggg/Robust-Vision-Transformer)]
 - **[LVT]** Lite Vision Transformer with Enhanced Self-Attention [[paper](https://arxiv.org/pdf/2112.10809.pdf) [[code](https://github.com/Chenglin-Yang/LVT)]
-- **[StyTr2]** StyTr2: Image Style Transfer with Transformers [[paper](https://arxiv.org/pdf/2105.14576.pdf) [[code](https://github.com/diyiiyiii/StyTR-2)]
+- **[StyTr2]** StyTr2: Image Style Transfer with Transformers [[paper](https://arxiv.org/pdf/2105.14576.pdf)] [[code](https://github.com/diyiiyiii/StyTR-2)]
 
 **ICLR**
 - **[RelViT]** RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning [[paper]](https://arxiv.org/pdf/2204.11167.pdf) [[code]](https://github.com/NVlabs/RelViT)
