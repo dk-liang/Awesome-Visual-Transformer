@@ -28,8 +28,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - **[MViTv2]** Improved Multiscale Vision Transformers for Classification and Detection [[paper](https://arxiv.org/pdf/2112.01526.pdf)] [[code](https://github.com/facebookresearch/mvit)]
 - DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection [[paper](https://arxiv.org/pdf/2203.03605.pdf)] [[code](https://github.com/IDEACVR/DINO)]
 - Three things everyone should know about Vision Transformers [[paper](https://arxiv.org/pdf/2203.09795.pdf)] 
-- **[DeiT III]** DeiT III: Revenge of the ViT
-[[paper](https://arxiv.org/pdf/2204.07118.pdf)] 
+- **[DeiT III]** DeiT III: Revenge of the ViT [[paper](https://arxiv.org/pdf/2204.07118.pdf)] 
 - **[DaViT]** DaViT: Dual Attention Vision Transformers
 [[paper](https://arxiv.org/pdf/2204.03645.pdf)] [[code](https://github.com/dingmyu/davit)]
 - **[CoFormer]** Collaborative Transformers for Grounded Situation Recognition
@@ -47,11 +46,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - **[Discrete ViT]** Discrete Representations Strengthen Vision Transformer Robustness [[paper](https://arxiv.org/abs/2111.10493)]
 - **[StyleSwin]** StyleSwin: Transformer-based GAN for High-resolution Image Generation [[paper](https://arxiv.org/abs/2112.10762)] [[code](https://github.com/microsoft/StyleSwin)]
 - **[SReT]** Sliced Recursive Transformer [[paper](https://arxiv.org/abs/2111.05297)] [[code](https://github.com/szq0214/SReT)]
-- Fast Point Transformer [[paper](https://arxiv.org/abs/2112.04702)]
 - Dynamic Token Normalization Improves Vision Transformer [[paper](https://arxiv.org/abs/2112.02624)]
 - TokenLearner: What Can 8 Learned Tokens Do for Images and Videos? [[paper](https://arxiv.org/abs/2106.11297)] [[code](https://github.com/google-research/scenic/tree/main/scenic/projects/token_learner)]
-- Swin Transformer V2: Scaling Up Capacity and Resolution [[paper](https://arxiv.org/abs/2111.09883)]
-- **[MAE]** Masked Autoencoders Are Scalable Vision Learners [[paper](https://arxiv.org/abs/2111.06377)]
 - Improved Robustness of Vision Transformer via PreLayerNorm in Patch Embedding [[paper](https://arxiv.org/abs/2111.08413)]
 - **[ORViT]** Object-Region Video Transformers [[paper](https://arxiv.org/abs/2110.06915)] [[code](https://roeiherz.github.io/ORViT/)]
 - Adaptively Multi-view and Temporal Fusing Transformer for 3D Human Pose Estimation [[paper](https://arxiv.org/abs/2110.05092)] [[code](https://github.com/lelexx/MTF-Transformer)]
@@ -98,7 +94,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - TransClaw U-Net: Claw U-Net with Transformers for Medical Image Segmentation [[paper](https://arxiv.org/abs/2107.05188)]
 - **[ViTGAN]** ViTGAN: Training GANs with Vision Transformers [[paper](https://arxiv.org/abs/2107.04589)]
 - What Makes for Hierarchical Vision Transformer? [[paper](https://arxiv.org/abs/2107.02174)]
-- CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows [[paper](https://arxiv.org/abs/2107.00652)] [[code](https://github.com/microsoft/CSWin-Transformer)]
 - **[Trans4Trans]** Trans4Trans: Efficient Transformer for Transparent Object Segmentation to Help Visually Impaired People Navigate in the Real World [[paper](https://arxiv.org/abs/2107.03172)] 
 - **[FFVT]** Feature Fusion Vision Transformer for Fine-Grained Visual Categorization [[paper](https://arxiv.org/abs/2107.02341)] 
 - **[TransformerFusion]** TransformerFusion: Monocular RGB Scene Reconstruction using Transformers [[paper](https://arxiv.org/abs/2107.02191)]
@@ -294,7 +289,25 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 ### 2022
 
 **CVPR**
-
+- **[MAE]** Masked Autoencoders Are Scalable Vision Learners [[paper](https://arxiv.org/abs/2111.06377)]
+- CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows [[paper](https://arxiv.org/abs/2107.00652)] [[code](https://github.com/microsoft/CSWin-Transformer)]
+- Fast Point Transformer [[paper](https://arxiv.org/abs/2112.04702)]
+- EDTER: Edge Detection With Transformer [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Pu_EDTER_Edge_Detection_With_Transformer_CVPR_2022_paper.html)] [[code](https://github.com/MengyangPu/EDTER)]
+- Bridged Transformer for Vision and Point Cloud 3D Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Bridged_Transformer_for_Vision_and_Point_Cloud_3D_Object_Detection_CVPR_2022_paper.html)]
+- MNSRNet: Multimodal Transformer Network for 3D Surface Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Xie_MNSRNet_Multimodal_Transformer_Network_for_3D_Surface_Super-Resolution_CVPR_2022_paper.html)] 
+- HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Bandara_HyperTransformer_A_Textural_and_Spectral_Feature_Fusion_Transformer_for_Pansharpening_CVPR_2022_paper.html)] [[code](https://github.com/wgcban/HyperTransformer)]
+- Keypoint Transformer: Solving Joint Identification in Challenging Hands and Object Interactions for Accurate 3D Pose Estimation [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Hampali_Keypoint_Transformer_Solving_Joint_Identification_in_Challenging_Hands_and_Object_CVPR_2022_paper.html)]
+- MPViT: Multi-Path Vision Transformer for Dense Prediction [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_MPViT_Multi-Path_Vision_Transformer_for_Dense_Prediction_CVPR_2022_paper.html)]
+- A-ViT: Adaptive Tokens for Efficient Vision Transformer [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_A-ViT_Adaptive_Tokens_for_Efficient_Vision_Transformer_CVPR_2022_paper.html)]
+- TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_TopFormer_Token_Pyramid_Transformer_for_Mobile_Semantic_Segmentation_CVPR_2022_paper.html)] [[code](https://github.com/hustvl/TopFormer)]
+- Continual Learning With Lifelong Vision Transformer [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.html)]
+- Swin Transformer V2: Scaling Up Capacity and Resolution [[paper](https://arxiv.org/abs/2111.09883)]
+- Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection From Point Clouds [[paper](https://arxiv.org/abs/2203.10314)] [[code](https://github.com/skyhehe123/VoxSeT)]
+- Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Multi-Class_Token_Transformer_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2022_paper.pdf)]
+- Human-Object Interaction Detection via Disentangled Transformer [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_Human-Object_Interaction_Detection_via_Disentangled_Transformer_CVPR_2022_paper.html)]
+- LGT-Net: Indoor Panoramic Room Layout Estimation With Geometry-Aware Transformer Network [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Jiang_LGT-Net_Indoor_Panoramic_Room_Layout_Estimation_With_Geometry-Aware_Transformer_Network_CVPR_2022_paper.html)]
+- Sparse Local Patch Transformer for Robust Face Alignment and Landmarks Inherent Relation Learning [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Xia_Sparse_Local_Patch_Transformer_for_Robust_Face_Alignment_and_Landmarks_CVPR_2022_paper.html)]
+- Vision Transformer With Deformable Attention [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Xia_Vision_Transformer_With_Deformable_Attention_CVPR_2022_paper.html)]
 - DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers [[paper](https://arxiv.org/abs/2204.12997)]
 - **[Restormer]** Restormer: Efficient Transformer for High-Resolution Image Restoration [[paper](https://arxiv.org/abs/2111.09881)] [[code](https://github.com/swz30/Restormer)]
 - **[SAM-DETR]** Accelerating DETR Convergence via Semantic-Aligned Matching [[paper](https://arxiv.org/abs/2203.06883)] [[code](https://github.com/ZhangGongjie/SAM-DETR)]
