@@ -294,6 +294,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 **CVPR**
 
+- DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers [[paper](https://arxiv.org/abs/2204.12997)]
 - **[Restormer]** Restormer: Efficient Transformer for High-Resolution Image Restoration [[paper](https://arxiv.org/abs/2111.09881)] [[code](https://github.com/swz30/Restormer)]
 - **[SAM-DETR]** Accelerating DETR Convergence via Semantic-Aligned Matching [[paper](https://arxiv.org/abs/2203.06883)] [[code](https://github.com/ZhangGongjie/SAM-DETR)]
 - **[BEVT]** BEVT: BERT Pretraining of Video Transformers [[paper](https://arxiv.org/pdf/2112.01529.pdf)] [[code](https://github.com/xyzforever/BEVT)]
@@ -312,6 +313,9 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[RVT]** Towards Robust Vision Transformer [[paper](https://arxiv.org/pdf/2105.07926.pdf) [[code](https://github.com/vtddggg/Robust-Vision-Transformer)]
 - **[LVT]** Lite Vision Transformer with Enhanced Self-Attention [[paper](https://arxiv.org/pdf/2112.10809.pdf) [[code](https://github.com/Chenglin-Yang/LVT)]
 - **[StyTr2]** StyTr2: Image Style Transfer with Transformers [[paper](https://arxiv.org/pdf/2105.14576.pdf)] [[code](https://github.com/diyiiyiii/StyTR-2)]
+
+**WACV** 
+- Image-Adaptive Hint Generation via Vision Transformer for Outpainting [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Kong_Image-Adaptive_Hint_Generation_via_Vision_Transformer_for_Outpainting_WACV_2022_paper.pdf)] [[code](https://github.com/kdh4672/hgonet)]
 
 **ICLR**
 - **[RelViT]** RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning [[paper]](https://arxiv.org/pdf/2204.11167.pdf) [[code]](https://github.com/NVlabs/RelViT)
@@ -483,6 +487,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[ACT]** End-to-End Object Detection with Adaptive Clustering Transformer [[paper](https://arxiv.org/abs/2011.09315)]
 - **[GSRTR]** Grounded Situation Recognition with Transformers
 [[paper](https://arxiv.org/abs/2111.10135)] [[code](https://github.com/jhcho99/gsrtr)]
+- **[TransFusion]** TransFusion: Cross-view Fusion with Transformer for 3D Human Pose Estimation [[paper](https://arxiv.org/abs/2110.09554)] [[code](https://github.com/HowieMa/TransFusion-Pose)]
 
 **ISIE**  
 - VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization (**ISIE**) [[paper](https://arxiv.org/abs/2104.10036)]
