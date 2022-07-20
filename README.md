@@ -288,6 +288,9 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 ### 2022
 
+**ECCV**
+- **[P3AFormer]** Tracking Objects as Pixel-wise Distributions [[paper](https://arxiv.org/abs/2207.05518)] [[code](https://github.com/dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions)]
+
 **CVPR**
 - **[MAE]** Masked Autoencoders Are Scalable Vision Learners [[paper](https://arxiv.org/abs/2111.06377)]
 - CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows [[paper](https://arxiv.org/abs/2107.00652)] [[code](https://github.com/microsoft/CSWin-Transformer)]
@@ -339,6 +342,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 ### 2021
 **NeurIPS**  
 
+- ProTo: Program-Guided Transformer for Program-Guided Tasks [[paper](https://arxiv.org/abs/2110.00804)] [[code](https://github.com/sjtuytc/Neurips21-ProTo-Program-guided-Transformers-for-Program-guided-Tasks)]
 - **[Augvit]** Augmented Shortcuts for Vision Transformers [[paper](https://arxiv.org/abs/2106.15941)] [[code](https://github.com/huawei-noah/CV-Backbones/tree/master/augvit_pytorch)]
 - **[YOLOS]** You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection [[paper](https://arxiv.org/abs/2106.00666)] [[code](https://github.com/hustvl/YOLOS)]
 - **[CATs]** Semantic Correspondence with Transformers [[paper](https://arxiv.org/abs/2106.02520)] [[code](https://github.com/SunghwanHong/CATs)] 
