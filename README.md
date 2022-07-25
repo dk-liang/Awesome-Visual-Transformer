@@ -289,6 +289,9 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 ### 2022
 
 **ECCV**
+- **[AiATrack]** AiATrack: Attention in Attention for Transformer Visual Tracking [[paper](https://arxiv.org/abs/2207.09603)] [[code](https://github.com/Little-Podi/AiATrack)]
+- **[OSTrack]** Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework [[paper](https://arxiv.org/abs/2203.11991)] [[code](https://github.com/botaoye/OSTrack)]
+- **[Unicorn]** Towards Grand Unification of Object Tracking [[paper](https://arxiv.org/abs/2207.07078)] [[code](https://github.com/MasterBin-IIAU/Unicorn)]
 - **[P3AFormer]** Tracking Objects as Pixel-wise Distributions [[paper](https://arxiv.org/abs/2207.05518)] [[code](https://github.com/dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions)]
 
 **CVPR**
