@@ -73,6 +73,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - **[CDTrans]** CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation [[paper](https://arxiv.org/abs/2109.06165)]
 - PQ-Transformer: Jointly Parsing 3D Objects and Layouts from Point Clouds [[paper](https://arxiv.org/abs/2109.05566)] [[code](https://github.com/OPEN-AIR-SUN/PQ-Transformer)]
 - Anchor DETR: Query Design for Transformer-Based Detector [[paper](https://arxiv.org/abs/2109.07107)] [[code](https://github.com/megvii-model/AnchorDETR)]
+- **[DAB-DETR]** DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR [[paper](https://arxiv.org/abs/2201.12329)] [[code](https://github.com/IDEA-opensource/DAB-DETR)]
 - **[ESRT]** Efficient Transformer for Single Image Super-Resolution [[paper](https://arxiv.org/abs/2108.11084)]
 - **[MaskFormer]** MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation [[paper](http://arxiv.org/abs/2107.06278)] [[code](https://github.com/facebookresearch/MaskFormer)]
 - **[SwinIR]** SwinIR: Image Restoration Using Swin Transformer [[paper](https://arxiv.org/abs/2108.10257)] [[code](https://github.com/JingyunLiang/SwinIR)]
@@ -343,6 +344,8 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - **[RelViT]** RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning [[paper]](https://arxiv.org/pdf/2204.11167.pdf) [[code]](https://github.com/NVlabs/RelViT)
 
 - Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning [[paper](https://arxiv.org/abs/2201.04676)] [[code](https://github.com/Sense-X/UniFormer)]
+
+- **[DAB-DETR]** DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR [[paper](https://arxiv.org/abs/2201.12329)] [[code](https://github.com/IDEA-opensource/DAB-DETR)]
 
 ### 2021
 **NeurIPS**  
