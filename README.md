@@ -341,7 +341,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 - Image-Adaptive Hint Generation via Vision Transformer for Outpainting [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Kong_Image-Adaptive_Hint_Generation_via_Vision_Transformer_for_Outpainting_WACV_2022_paper.pdf)] [[code](https://github.com/kdh4672/hgonet)]
 
 **ICLR**
-- **[RelViT]** RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning [[paper]](https://arxiv.org/pdf/2204.11167.pdf) [[code]](https://github.com/NVlabs/RelViT)
+- **[RelViT]** RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning [[paper](https://arxiv.org/pdf/2204.11167.pdf)] [[code](https://github.com/NVlabs/RelViT)]
 
 - Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning [[paper](https://arxiv.org/abs/2201.04676)] [[code](https://github.com/Sense-X/UniFormer)]
 
