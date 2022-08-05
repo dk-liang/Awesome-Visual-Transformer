@@ -291,6 +291,8 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 ### 2022
 
 **ECCV**
+- **[X-CLIP]** Expanding Language-Image Pretrained Models for General Video Recognition [[paper](https://arxiv.org/abs/2208.02816)] [[code](https://aka.ms/X-CLIP)]
+- **[TinyViT]** TinyViT: Fast Pretraining Distillation for Small Vision Transformers [[paper](https://arxiv.org/abs/2207.10666)] [[code](https://github.com/microsoft/Cream/tree/main/TinyViT)]
 - **[FastMETRO]** Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers [[paper](https://arxiv.org/abs/2207.13820)] [[code](https://github.com/postech-ami/FastMETRO)]
 - **[AiATrack]** AiATrack: Attention in Attention for Transformer Visual Tracking [[paper](https://arxiv.org/abs/2207.09603)] [[code](https://github.com/Little-Podi/AiATrack)]
 - **[OSTrack]** Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework [[paper](https://arxiv.org/abs/2203.11991)] [[code](https://github.com/botaoye/OSTrack)]
