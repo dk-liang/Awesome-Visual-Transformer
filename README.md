@@ -90,7 +90,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - Boosting Few-shot Semantic Segmentation with Transformers [[paper](https://arxiv.org/abs/2108.02266)] [[code](https://github.com/GuoleiSun/TRFS)]
 - Congested Crowd Instance Localization with Dilated Convolutional Swin Transformer [[paper](https://arxiv.org/abs/2108.00584)]
 - Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer [[paper](https://arxiv.org/abs/2108.01390)]
-- **[CrossFormer]** CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention [[paper](https://arxiv.org/abs/2108.00154)] [[code](https://github.com/cheerss/CrossFormer)]
 - **[Styleformer]** Styleformer: Transformer based Generative Adversarial Networks with Style Vector [[paper](https://arxiv.org/abs/2106.07023)] [[code](https://github.com/Jeeseung-Park/Styleformer)]
 - **[CMT]** CMT: Convolutional Neural Networks Meet Vision Transformers [[paper](https://arxiv.org/abs/2107.06263)]
 - **[TransAttUnet]** TransAttUnet: Multi-level Attention-guided U-Net with Transformer for Medical Image Segmentation [[paper](https://arxiv.org/abs/2107.05274)]
@@ -345,6 +344,7 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 **ICLR**
 - **[RelViT]** RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning [[paper](https://arxiv.org/pdf/2204.11167.pdf)] [[code](https://github.com/NVlabs/RelViT)]
+- **[CrossFormer]** CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention [[paper](https://arxiv.org/abs/2108.00154)] [[code](https://github.com/cheerss/CrossFormer)]
 
 - Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning [[paper](https://arxiv.org/abs/2201.04676)] [[code](https://github.com/Sense-X/UniFormer)]
 
