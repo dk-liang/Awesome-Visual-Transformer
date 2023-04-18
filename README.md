@@ -23,6 +23,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 
 ### arXiv papers
+- **[FocusedDecoder]** Focused Decoding Enables 3D Anatomical Detection by Transformers [[paper](https://arxiv.org/abs/2207.10774v4)] [[code](https://github.com/bwittmann/transoar)]
 - **[TAG]** TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation [[paper](https://arxiv.org/abs/2208.01813)] [[code](https://github.com/HenryJunW/TAG)]
 - **[FastMETRO]** Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers [[paper](https://arxiv.org/abs/2207.13820)] [[code](https://github.com/postech-ami/FastMETRO)]
 - BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning [[paper](https://arxiv.org/abs/2203.01522)] [[code](https://github.com/zhihou7/BatchFormer)]
