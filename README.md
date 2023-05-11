@@ -23,6 +23,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 
 ### arXiv papers
+- Understanding Gaussian Attention Bias of Vision Transformers Using Effective Receptive [[arxiv](https://arxiv.org/abs/2305.04722)]
 - **[FocusedDecoder]** Focused Decoding Enables 3D Anatomical Detection by Transformers [[paper](https://arxiv.org/abs/2207.10774v4)] [[code](https://github.com/bwittmann/transoar)]
 - **[TAG]** TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation [[paper](https://arxiv.org/abs/2208.01813)] [[code](https://github.com/HenryJunW/TAG)]
 - **[FastMETRO]** Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers [[paper](https://arxiv.org/abs/2207.13820)] [[code](https://github.com/postech-ami/FastMETRO)]
@@ -108,7 +109,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - Video Swin Transformer [[paper](https://arxiv.org/abs/2106.13230)] [[code](https://github.com/SwinTransformer/Video-Swin-Transformer)]
 - **[VOLO]** VOLO: Vision Outlooker for Visual Recognition [[paper](https://arxiv.org/abs/2106.13112)] [[code](https://github.com/sail-sg/volo)]
 - Transformer Meets Convolution: A Bilateral Awareness Net-work for Semantic Segmentation of Very Fine Resolution Ur-ban Scene Images [[paper](https://arxiv.org/abs/2106.12413)] 
-- **[P2T]** P2T: Pyramid Pooling Transformer for Scene Understanding [[paper](https://arxiv.org/abs/2106.12011)]
 - End-to-end Temporal Action Detection with Transformer [[paper](https://arxiv.org/abs/2106.10271)] [[code](https://github.com/xlliu7/TadTR)]
 - How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers [[paper](https://arxiv.org/abs/2106.10270)]
 - Efficient Self-supervised Vision Transformers for Representation Learning [[paper](https://arxiv.org/abs/2106.09785)]
@@ -291,7 +291,12 @@ Multimodal Multitask Learning with a Unified Transformer [[paper](https://arxiv.
 
 ### 2022
 
+**TPAMI**
+
+- **[P2T]** P2T: Pyramid Pooling Transformer for Scene Understanding [[paper](https://ieeexplore.ieee.org/document/9870559)]
+
 **ECCV**
+
 - **[X-CLIP]** Expanding Language-Image Pretrained Models for General Video Recognition [[paper](https://arxiv.org/abs/2208.02816)] [[code](https://aka.ms/X-CLIP)]
 - **[TinyViT]** TinyViT: Fast Pretraining Distillation for Small Vision Transformers [[paper](https://arxiv.org/abs/2207.10666)] [[code](https://github.com/microsoft/Cream/tree/main/TinyViT)]
 - **[FastMETRO]** Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers [[paper](https://arxiv.org/abs/2207.13820)] [[code](https://github.com/postech-ami/FastMETRO)]
@@ -543,6 +548,8 @@ Representation and Relation Inference Module (**IROS**)  [[paper](https://arxiv.
 - **[DETR]** End-to-End Object Detection with Transformers (**ECCV**) [[paper](https://arxiv.org/abs/2005.12872)] [[code](https://github.com/facebookresearch/detr)]
 - [**FPT**] Feature Pyramid Transformer (**CVPR**) [[paper](https://arxiv.org/abs/2007.09451)] [[code](https://github.com/ZHANGDONG-NJUST/FPT)]
 
+### Other resource
+- [[Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)]
 
 ### Acknowledgement
 
