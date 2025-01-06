@@ -24,6 +24,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 
 ### arXiv papers
+- **[Superpoint Transformer]** Efficient 3D Semantic Segmentation with Superpoint Transformer [[paper](https://arxiv.org/abs/2306.08045)] [[code](https://github.com/drprojects/superpoint_transformer)]
 - Understanding Gaussian Attention Bias of Vision Transformers Using Effective Receptive [[paper](https://arxiv.org/abs/2305.04722)]
 - **[FocusedDecoder]** Focused Decoding Enables 3D Anatomical Detection by Transformers [[paper](https://arxiv.org/abs/2207.10774v4)] [[code](https://github.com/bwittmann/transoar)]
 - **[TAG]** TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation [[paper](https://arxiv.org/abs/2208.01813)] [[code](https://github.com/HenryJunW/TAG)]
