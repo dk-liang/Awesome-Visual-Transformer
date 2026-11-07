@@ -23,6 +23,17 @@ If you find some overlooked papers, please open issues or pull requests (recomme
   - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2021.1.30
   - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 
+### 2026
+
+- [MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](https://arxiv.org/abs/2610.22276) (arXiv 2026) [[code]](https://github.com/Fr0zenCrane/MJev-Spatial)
+- [VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615) (arXiv 2026) [[code]](https://github.com/MCG-NJU/VideoJev)
+- [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935) (arXiv 2026) [[code]](https://github.com/MCG-NJU/VideoChat3)
+- [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://proceedings.mlr.press/v306/zeng26y.html) (ICML 2026) [[code]](https://github.com/MCG-NJU/Video-o3)
+
+### 2024
+
+- [Dual DETRs for Multi-Label Temporal Action Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Dual_DETRs_for_Multi-Label_Temporal_Action_Detection_CVPR_2024_paper.html) (CVPR 2024)
+
 ### arXiv papers
 - **[Superpoint Transformer]** Efficient 3D Semantic Segmentation with Superpoint Transformer [[paper](https://arxiv.org/abs/2306.08045)] [[code](https://github.com/drprojects/superpoint_transformer)]
 - Understanding Gaussian Attention Bias of Vision Transformers Using Effective Receptive [[paper](https://arxiv.org/abs/2305.04722)]
